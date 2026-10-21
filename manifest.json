@@ -1,0 +1,16 @@
+{
+ "apk_version": 2,
+ "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
+ "files": [
+  {
+   "path": "km/SAMP/gta.dat",
+   "size": 1492,
+   "md5": "b84965ac4fe281d9ac583c45bce7a5b1"
+  },
+  {
+   "path": "lib/libsamp.so",
+   "size": 2760808,
+   "md5": "b9b2d669cc51b084ad6767926bf01ca2"
+  }
+ ]
+}
