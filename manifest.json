@@ -1,12 +1,21 @@
 {
- "apk_version": 2,
+ "apk_version": 4,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
- "files": [
+ "news": [
   {
-   "path": "km/SAMP/gta.dat",
-   "size": 1492,
-   "md5": "b84965ac4fe281d9ac583c45bce7a5b1"
-  },
+   "d": "22.10",
+   "t": "Новая карта Криминальной России, АЗС и бензин, номера KENT MOBILE!"
+  }
+ ],
+ "links": {
+  "vk": "",
+  "tg": "",
+  "chat": "",
+  "forum": "",
+  "site": "",
+  "donate": ""
+ },
+ "files": [
   {
    "path": "km/texdb/kentcars/kentcars.dxt.tmb",
    "size": 5120,
@@ -83,19 +92,9 @@
    "md5": "9fb88baa74f1927ffafc7da4ee7b54f4"
   },
   {
-   "path": "km/texdb/gta3/gta3.txt",
-   "size": 180649,
-   "md5": "bde7f2cf63fa2bb49fa3a5e2153a674c"
-  },
-  {
-   "path": "km/texdb/crmpsamp/crmpsamp.txt",
-   "size": 103981,
-   "md5": "d597e5582d4f725c42d864e1f86a7a8f"
-  },
-  {
    "path": "lib/libsamp.so",
-   "size": 2760808,
-   "md5": "b9b2d669cc51b084ad6767926bf01ca2"
+   "size": 2762584,
+   "md5": "9bb88cb7c88f40fb800b30a3256e8592"
   }
  ]
 }

@@ -16,7 +16,20 @@ for root,_,names in os.walk(U+'files'):
         sz=os.path.getsize(f)
         if sz>95*1024*1024: print('!! больше 95 МБ, GitHub не примет:',rel); continue
         files.append({'path':rel,'size':sz,'md5':h})
-json.dump({'apk_version':ver,'apk_url':apk_url,'files':files},open(U+'manifest.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
+news=[]
+if os.path.exists(U+'news.txt'):
+    for l in open(U+'news.txt',encoding='utf-8'):
+        l=l.strip()
+        if not l or l.startswith('#'): continue
+        d,t=(l.split('|',1)+[''])[:2] if '|' in l else ('',l)
+        news.append({'d':d.strip(),'t':t.strip()})
+links={}
+if os.path.exists(U+'links.txt'):
+    for l in open(U+'links.txt',encoding='utf-8'):
+        if '=' in l and not l.strip().startswith('#'):
+            k,v=l.split('=',1); links[k.strip()]=v.strip()
+print('новостей',len(news),'ссылок',len(links))
+json.dump({'apk_version':ver,'apk_url':apk_url,'news':news,'links':links,'files':files},open(U+'manifest.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
 for x in files: print(x['path'],x['size'])
 print('apk_version',ver)
 os.chdir(U)
