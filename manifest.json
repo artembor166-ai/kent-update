@@ -8,6 +8,91 @@
    "md5": "b84965ac4fe281d9ac583c45bce7a5b1"
   },
   {
+   "path": "km/texdb/kentcars/kentcars.dxt.tmb",
+   "size": 5120,
+   "md5": "6d9fc86989dccea42ae70110ee9d0bf7"
+  },
+  {
+   "path": "km/texdb/kentcars/kentcars.dxt.toc",
+   "size": 1028,
+   "md5": "8ea6bd4135a7abc9dda4f2d427328740"
+  },
+  {
+   "path": "km/texdb/kentcars/kentcars.txt",
+   "size": 13133,
+   "md5": "1bae1a3c7675ee2f07acae1f9c14295b"
+  },
+  {
+   "path": "km/texdb/kentcars/kentcars.unc.tmb",
+   "size": 5120,
+   "md5": "6d9fc86989dccea42ae70110ee9d0bf7"
+  },
+  {
+   "path": "km/texdb/kentcars/src/nomer.png",
+   "size": 8743,
+   "md5": "68dc8e6c00fe80a8cc947cb0d8e8146c"
+  },
+  {
+   "path": "km/texdb/kentcars/src/nomera.png",
+   "size": 8743,
+   "md5": "68dc8e6c00fe80a8cc947cb0d8e8146c"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_by.png",
+   "size": 2588,
+   "md5": "1b8d96a13f6c58310f052c67ffe50a95"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_empty.png",
+   "size": 4409,
+   "md5": "106863b2720a4c723feeb1eb3e01c9b6"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_kz.png",
+   "size": 2937,
+   "md5": "bb2895cf6e56a4110fa8c81a8d1fcdf5"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_pol.png",
+   "size": 2166,
+   "md5": "deca6fc22538c6069427e56b16c36b1e"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_remap.png",
+   "size": 3736,
+   "md5": "6ee70e330245479f79e5d655e142bcfe"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_ru.png",
+   "size": 2349,
+   "md5": "2f27627b0897ebd58aabb237009d3f5b"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_ua.png",
+   "size": 2357,
+   "md5": "16ec3f8ebc165f0a2997bd1d886357e1"
+  },
+  {
+   "path": "km/texdb/kentcars/src/plate_voen.png",
+   "size": 2136,
+   "md5": "6a75626c6755a3fa8765525998371520"
+  },
+  {
+   "path": "km/texdb/kentcars/src/platem_remap.png",
+   "size": 4872,
+   "md5": "9fb88baa74f1927ffafc7da4ee7b54f4"
+  },
+  {
+   "path": "km/texdb/gta3/gta3.txt",
+   "size": 180649,
+   "md5": "bde7f2cf63fa2bb49fa3a5e2153a674c"
+  },
+  {
+   "path": "km/texdb/crmpsamp/crmpsamp.txt",
+   "size": 103981,
+   "md5": "d597e5582d4f725c42d864e1f86a7a8f"
+  },
+  {
    "path": "lib/libsamp.so",
    "size": 2760808,
    "md5": "b9b2d669cc51b084ad6767926bf01ca2"

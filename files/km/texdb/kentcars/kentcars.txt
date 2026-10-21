@@ -1,0 +1,257 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=4 defaultstream=1
+"488gtb_int" width=256 height=256 streammode=1
+"488gtb_logo" width=128 height=256 alphamode=2 streammode=1
+"488gtb_logo1" width=128 height=128 streammode=1
+"488gtb_logo2" width=128 height=128 alphamode=2 streammode=1
+"accord_disk" width=256 height=256 streammode=1
+"accord_int" width=256 height=256 alphamode=2 streammode=1
+"accord_lights" width=256 height=256 streammode=1
+"alfa_giulia_badge" width=256 height=256 alphamode=2 streammode=1
+"alfa_giulia_eng" width=64 height=64 streammode=1
+"alfa_giulia_int" width=256 height=256 streammode=1
+"amggt_eng" width=64 height=64 streammode=1
+"amggt_int" width=256 height=256 streammode=1
+"aprilla_mxv_a" width=256 height=256 streammode=1
+"audi_q8_badge" width=256 height=256 alphamode=2 streammode=1
+"audi_q8_eng" width=64 height=64 streammode=1
+"audi_q8_int" width=256 height=256 streammode=1
+"audi_r8_badge" width=256 height=256 alphamode=2 streammode=1
+"audi_r8_int" width=256 height=256 streammode=1
+"audi_r8_int2" width=128 height=64 streammode=1
+"audi_rs6_badge" width=256 height=256 alphamode=2 streammode=1
+"audi_rs6_int" width=256 height=256 streammode=1
+"audi_s4b8_int" width=256 height=256 streammode=1
+"bmw_m3e30_int" width=256 height=256 streammode=1
+"bmw_m3e46_eng" width=64 height=64 streammode=1
+"bmw_m3e46_int" width=256 height=256 streammode=1
+"bmw_m4f82_eng" width=64 height=64 streammode=1
+"bmw_m4f82_int" width=256 height=256 streammode=1
+"bmw_m5f90_badge" width=256 height=256 alphamode=2 streammode=1
+"bmw_m5f90_int" width=256 height=256 streammode=1
+"bmw_m_badge" width=256 height=256 alphamode=2 streammode=1
+"bmw_s1000rr_a" width=256 height=256 streammode=1
+"bmw_s1000rr_b" width=256 height=256 streammode=1
+"bmw_x6m_int" width=256 height=256 streammode=1
+"bmwi8_int" width=256 height=256 streammode=1
+"bmwi8_logo" width=256 height=256 alphamode=2 streammode=1
+"bmwz4_grille" width=128 height=128 streammode=1
+"bmwz4_grille1" width=128 height=128 streammode=1
+"bmwz4_int" width=256 height=256 streammode=1
+"bmwz4_int1" width=256 height=256 streammode=1
+"bmwz4_logo" width=128 height=128 alphamode=2 streammode=1
+"carbon" width=64 height=64 streammode=1
+"carplate" width=16 height=16 streammode=1
+"chevrlt_camaro_badge" width=256 height=256 alphamode=2 streammode=1
+"chevrlt_camaro_eng" width=64 height=64 streammode=1
+"chevrlt_camaro_int" width=256 height=256 streammode=1
+"db11_int" width=256 height=256 streammode=1
+"db11_logo" width=256 height=256 streammode=1
+"demon_eng" width=64 height=64 streammode=1
+"demon_grille" width=128 height=128 streammode=1
+"demon_int" width=256 height=256 streammode=1
+"derevo" width=256 height=256 streammode=1
+"ducati_supersport_a" width=256 height=256 streammode=1
+"ducati_supersport_b" width=256 height=256 streammode=1
+"ducati_xdiavel_a" width=256 height=256 streammode=1
+"ducati_xdiavel_b" width=256 height=256 streammode=1
+"dvig" width=64 height=64 streammode=1
+"eng" width=64 height=64 streammode=1
+"envmap" width=128 height=128 streammode=1
+"escalade_int" width=128 height=128 streammode=1
+"escalade_logo" width=128 height=64 alphamode=2 streammode=1
+"f90_eng" width=64 height=64 streammode=1
+"f90_grille" width=128 height=128 alphamode=2 streammode=1
+"f90_int" width=256 height=256 streammode=1
+"f90_logo" width=256 height=256 streammode=1
+"ford150_dvig" width=64 height=64 streammode=1
+"ford150_grille" width=128 height=128 streammode=1
+"ford150_int" width=256 height=256 streammode=1
+"fors_eng" width=64 height=64 streammode=1
+"fors_int" width=256 height=256 streammode=1
+"fors_logo" width=256 height=256 alphamode=2 streammode=1
+"frame" width=256 height=256 streammode=1
+"g60s_int" width=256 height=256 streammode=1
+"g60s_logo" width=128 height=128 alphamode=2 streammode=1
+"g63_grille" width=128 height=128 streammode=1
+"g63_int" width=256 height=256 streammode=1
+"g63_logo" width=256 height=256 alphamode=2 streammode=1
+"gaz_2410_eng" width=64 height=64 streammode=1
+"gaz_2410_int" width=256 height=256 streammode=1
+"gaz_3221_badge" width=256 height=256 alphamode=2 streammode=1
+"gaz_3221_eng" width=64 height=64 streammode=1
+"gaz_3221_int" width=256 height=256 streammode=1
+"gaz_69_eng" width=64 height=64 streammode=1
+"gaz_69_int" width=256 height=256 streammode=1
+"gaz_tent1" width=256 height=256 streammode=1
+"gaz_tigr_int" width=256 height=256 streammode=1
+"gaz_tigr_int2" width=256 height=256 streammode=1
+"grille_01" width=128 height=128 streammode=1
+"grille_02" width=128 height=128 streammode=1
+"grille_03" width=128 height=128 streammode=1
+"grille_04" width=128 height=128 streammode=1
+"grille_05" width=128 height=128 streammode=1
+"grille_06" width=128 height=128 streammode=1
+"grille_10" width=128 height=32 streammode=1
+"grille_noalpha" width=128 height=128 streammode=1
+"grills" width=64 height=64 streammode=1
+"gti_eng" width=64 height=64 streammode=1
+"gti_int" width=256 height=256 streammode=1
+"gti_logo" width=256 height=256 alphamode=2 streammode=1
+"gtr35_eng" width=128 height=64 streammode=1
+"gtr35_grille1" width=128 height=128 streammode=1
+"gtr35_grille2" width=128 height=128 streammode=1
+"gtr35_int" width=256 height=256 streammode=1
+"gtr35_logo" width=256 height=256 alphamode=2 streammode=1
+"hoodlinner" width=128 height=128 streammode=1
+"hyundai_sls_badge" width=256 height=256 alphamode=2 streammode=1
+"hyundai_sls_eng" width=64 height=64 streammode=1
+"hyundai_sls_int" width=256 height=256 streammode=1
+"jetta_eng" width=64 height=64 streammode=1
+"jetta_int" width=256 height=256 streammode=1
+"jetta_int2" width=128 height=128 streammode=1
+"kamaz_54115_int" width=256 height=256 streammode=1
+"kawasaki_h2r_a" width=256 height=256 streammode=1
+"kawasaki_h2r_b" width=256 height=256 streammode=1
+"kwheels" width=256 height=256 streammode=1
+"lancer_eng" width=64 height=64 streammode=1
+"lancer_int" width=256 height=256 streammode=1
+"lp750_grille" width=128 height=128 streammode=1
+"lp750_int" width=256 height=256 streammode=1
+"lp750_logo" width=256 height=256 streammode=1
+"mazda3_eng" width=64 height=64 streammode=1
+"mazda3_int" width=256 height=256 streammode=1
+"mazda_rx7_badge" width=256 height=256 alphamode=2 streammode=1
+"mazda_rx7_int" width=256 height=256 streammode=1
+"mclaren_600lt_badge" width=256 height=256 alphamode=2 streammode=1
+"mclaren_600lt_int" width=256 height=256 streammode=1
+"mercedes_e320_badge" width=256 height=256 alphamode=2 streammode=1
+"mercedes_e320_eng" width=64 height=64 streammode=1
+"mercedes_e320_int" width=256 height=256 streammode=1
+"mercedes_e420_badge" width=256 height=256 alphamode=2 streammode=1
+"mercedes_e420_eng" width=64 height=64 streammode=1
+"mercedes_e420_int" width=256 height=256 streammode=1
+"mercedes_e63s_badge" width=256 height=256 alphamode=2 streammode=1
+"mercedes_e63s_eng" width=64 height=64 streammode=1
+"mercedes_e63s_int" width=256 height=256 streammode=1
+"mercedes_s600_badge" width=256 height=256 alphamode=2 streammode=1
+"mercedes_s600_eng" width=64 height=64 streammode=1
+"mercedes_s600_int" width=256 height=256 streammode=1
+"mercedes_spr_int" width=256 height=256 streammode=1
+"mercedes_spr_inta" width=256 height=256 streammode=1
+"mercedes_vcls_badge" width=256 height=256 alphamode=2 streammode=1
+"mercedes_vcls_eng" width=64 height=64 streammode=1
+"mercedes_vcls_int" width=256 height=256 streammode=1
+"mers45_eng" width=64 height=64 streammode=1
+"mers45_int" width=256 height=256 streammode=1
+"mers45_logo" width=256 height=256 alphamode=2 streammode=1
+"mers45_logo2" width=128 height=128 streammode=1
+"mers63_dvig" width=128 height=64 streammode=1
+"mers63_grille" width=64 height=64 streammode=1
+"mers63_int" width=256 height=256 streammode=1
+"mers63_logo" width=256 height=256 alphamode=2 streammode=1
+"metal" width=64 height=64 streammode=1
+"metal2" width=128 height=128 streammode=1
+"mustg_eng" width=64 height=64 streammode=1
+"mustg_int" width=256 height=256 streammode=1
+"mustg_logo" width=128 height=128 streammode=1
+"mwheels" width=256 height=256 streammode=1
+"news1body" width=512 height=512 streammode=1
+"nissan_gtr34_badge" width=256 height=256 alphamode=2 streammode=1
+"nissan_gtr34_eng" width=64 height=64 streammode=1
+"nissan_gtr34_int" width=256 height=256 streammode=1
+"paz_disk" width=128 height=128 streammode=1
+"paz_lights" width=128 height=128 streammode=1
+"paz_logo" width=128 height=128 alphamode=2 streammode=1
+"paz_prib" width=256 height=128 streammode=1
+"plate_remap" width=256 height=64 streammode=1
+"platem_remap" width=256 height=256 streammode=1
+"pors_eng" width=64 height=64 streammode=1
+"pors_int" width=256 height=256 streammode=1
+"pors_logo" width=256 height=256 alphamode=2 streammode=1
+"porsche_911_badge" width=256 height=256 alphamode=2 streammode=1
+"porsche_911_int" width=256 height=256 streammode=1
+"q60s_eng" width=128 height=64 streammode=1
+"q60s_grille" width=128 height=128 streammode=1
+"quada" width=8 height=8 alphamode=2 streammode=1
+"quadb" width=32 height=32 alphamode=2 streammode=1
+"radiator" width=64 height=64 streammode=1
+"remaptoner" width=256 height=256 streammode=1
+"remapvehicles" width=16 height=16 streammode=1
+"renault_prem_int" width=256 height=256 streammode=1
+"sprinter_disk" width=64 height=64 streammode=1
+"sprinter_int" width=128 height=128 streammode=1
+"sprinter_int1" width=128 height=64 streammode=1
+"sprinter_opt" width=128 height=64 streammode=1
+"sprinter_wheel" width=128 height=128 streammode=1
+"sprinter_wheel2" width=128 height=128 streammode=1
+"subaru_wrx_badge" width=256 height=256 alphamode=2 streammode=1
+"subaru_wrx_eng" width=64 height=64 streammode=1
+"subaru_wrx_int" width=256 height=256 streammode=1
+"suzuki_gsx_a" width=256 height=256 streammode=1
+"suzuki_gsx_b" width=256 height=256 streammode=1
+"svr_eng" width=128 height=64 streammode=1
+"svr_grille" width=128 height=128 streammode=1
+"svr_int" width=256 height=256 streammode=1
+"svr_logo" width=256 height=256 alphamode=2 streammode=1
+"toyota_camry_badge" width=256 height=256 alphamode=2 streammode=1
+"toyota_camry_eng" width=64 height=64 streammode=1
+"toyota_camry_int" width=256 height=256 streammode=1
+"toyota_mark_badge" width=256 height=256 alphamode=2 streammode=1
+"toyota_mark_eng" width=64 height=64 streammode=1
+"toyota_mark_int" width=256 height=256 streammode=1
+"tread" width=128 height=128 streammode=1
+"twheels" width=256 height=256 streammode=1
+"undercarriage" width=256 height=256 streammode=1
+"vaz_1111_eng" width=64 height=64 streammode=1
+"vaz_1111_int" width=256 height=256 alphamode=2 streammode=1
+"vaz_2101_eng" width=64 height=64 streammode=1
+"vaz_2106_badge" width=256 height=256 alphamode=2 streammode=1
+"vaz_2106_eng" width=64 height=64 streammode=1
+"vaz_2106_int" width=256 height=256 streammode=1
+"vaz_2107_badge" width=256 height=256 alphamode=2 streammode=1
+"vaz_2107_eng" width=64 height=64 streammode=1
+"vaz_2107_int" width=256 height=256 streammode=1
+"vaz_2109_badge" width=256 height=256 alphamode=2 streammode=1
+"vaz_2109_eng" width=64 height=64 streammode=1
+"vaz_2109_int" width=256 height=256 streammode=1
+"vaz_2110_eng" width=64 height=64 streammode=1
+"vaz_2110_int" width=256 height=256 streammode=1
+"vaz_2114_eng" width=64 height=64 streammode=1
+"vaz_2114_int" width=256 height=256 streammode=1
+"vaz_2121_eng" width=64 height=64 streammode=1
+"vaz_2121_int" width=256 height=256 streammode=1
+"vaz_2170_int" width=256 height=256 streammode=1
+"volvo_242dl_badge" width=256 height=256 alphamode=2 streammode=1
+"volvo_242dl_int" width=256 height=256 streammode=1
+"volvo_v60_badge" width=256 height=256 alphamode=2 streammode=1
+"volvo_v60_eng" width=64 height=64 streammode=1
+"volvo_v60_int" width=256 height=256 streammode=1
+"volvo_xc90_badge" width=256 height=256 alphamode=2 streammode=1
+"volvo_xc90_eng" width=64 height=64 streammode=1
+"volvo_xc90_int" width=256 height=256 streammode=1
+"vw_golf2_badge" width=256 height=256 alphamode=2 streammode=1
+"vw_golf2_eng" width=64 height=64 streammode=1
+"vw_golf2_int" width=256 height=256 streammode=1
+"vw_polo_badge" width=256 height=256 alphamode=2 streammode=1
+"vw_polo_eng" width=64 height=64 streammode=1
+"vw_polo_int" width=256 height=256 streammode=1
+"vw_transp_badge" width=256 height=256 alphamode=2 streammode=1
+"vw_transp_eng" width=64 height=64 streammode=1
+"vw_transp_int" width=256 height=256 streammode=1
+"wheel" width=256 height=256 streammode=1
+"wheels" width=256 height=256 streammode=1
+"wheels_badge" width=256 height=256 alphamode=2 streammode=1
+"xwheels" width=256 height=256 streammode=1
+"yamaha_fz10_a" width=256 height=256 streammode=1
+"yamaha_fz10_b" width=256 height=256 streammode=1
+"zaz_968m_eng" width=64 height=64 streammode=1
+"zaz_968m_int" width=256 height=256 streammode=1
+"nomer" width=512 height=128 alphamode=2 streammode=1
+"plate_by" width=256 height=64 alphamode=2 streammode=1
+"plate_empty" width=256 height=64 alphamode=2 streammode=1
+"plate_kz" width=256 height=64 alphamode=2 streammode=1
+"plate_pol" width=256 height=64 alphamode=2 streammode=1
+"plate_ru" width=256 height=64 alphamode=2 streammode=1
+"plate_ua" width=256 height=64 alphamode=2 streammode=1
+"plate_voen" width=256 height=64 alphamode=2 streammode=1
+"nomera" width=512 height=128 alphamode=2 streammode=1
