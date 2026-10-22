@@ -2196,60 +2196,6 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__veh_mods__veh_mods.ide"
   },
   {
-   "path": "km/data/maps/Копия PORTLAND/EMPTY.IPL",
-   "size": 2,
-   "md5": "81051bcc2cf1bedf378224b0a93e2877",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__EMPTY.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/port_add.IPL",
-   "size": 7126,
-   "md5": "ca329ceaae44c23e75276d31f5111c50",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__port_add.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/portland_1.IPL",
-   "size": 35357,
-   "md5": "82802646419458d7bb620acd8c9c8fa7",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__portland_1.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/portland_2.IPL",
-   "size": 15233,
-   "md5": "47b4ed173624bdd4dbd19179e7c64350",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__portland_2.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/portland_3.IPL",
-   "size": 28370,
-   "md5": "42befdd799bc743f72a602a3dc2ee2e6",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__portland_3.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/portland_4.IPL",
-   "size": 48878,
-   "md5": "796459a122ae3b6cfd80bdeb1935df6d",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__portland_4.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/portland_5.IPL",
-   "size": 19908,
-   "md5": "3556df02a73161af74708c677a8b29dd",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__portland_5.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/portland_6.IPL",
-   "size": 50117,
-   "md5": "0788b1c0d04db80dcf76c58ce15880db",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__portland_6.IPL"
-  },
-  {
-   "path": "km/data/maps/Копия PORTLAND/veg_add.IPL",
-   "size": 12193,
-   "md5": "b9722b6d30c9d8131d888b3bf8586955",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_PORTLAND__veg_add.IPL"
-  },
-  {
    "path": "km/data/paths/ROADBLOX.DAT",
    "size": 1304,
    "md5": "2dbd1fa4fc98e4cd0d84e647b3a12fa6",
