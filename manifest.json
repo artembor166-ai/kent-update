@@ -97,9 +97,54 @@
    "md5": "9fb88baa74f1927ffafc7da4ee7b54f4"
   },
   {
+   "path": "km/music/01.mp3",
+   "size": 5394852,
+   "md5": "4d20a58f42f5c2675844ce6b49dfcdf5"
+  },
+  {
+   "path": "km/music/02.mp3",
+   "size": 7778219,
+   "md5": "588cb3c7ae39bb35d0f7abc30a537a16"
+  },
+  {
+   "path": "km/music/03.mp3",
+   "size": 7934999,
+   "md5": "68e51aa340dbffe1e8e90039eaad607e"
+  },
+  {
+   "path": "km/music/04.mp3",
+   "size": 8783456,
+   "md5": "fd126c9763c1be723c94be385ca14fb0"
+  },
+  {
+   "path": "km/music/05.mp3",
+   "size": 5248566,
+   "md5": "2cd061528dbe5727060104d500beaad0"
+  },
+  {
+   "path": "km/music/06.mp3",
+   "size": 7261040,
+   "md5": "c982782b12e071b26dd8b620a10620f4"
+  },
+  {
+   "path": "km/music/07.mp3",
+   "size": 7863946,
+   "md5": "171af0013571cb148a5c48aea600087b"
+  },
+  {
+   "path": "km/music/playlist.txt",
+   "size": 294,
+   "md5": "6b921d7eb94014bcd798d81f86a34801"
+  },
+  {
+   "path": "km/anim/anim.img",
+   "size": 11243520,
+   "md5": "4c70f3a5998350c7e7f3598aa83b6274"
+  },
+  {
    "path": "lib/libsamp.so",
-   "size": 2773504,
-   "md5": "eac5bb85a4b79c1edcd7e6a5f4448172"
+   "size": 2978088,
+   "md5": "be61ee0a207fecb2aa44b5613922b9c1"
   }
  ]
 }
