@@ -16,6 +16,11 @@ for root,_,names in os.walk(U+'files'):
         sz=os.path.getsize(f)
         if sz>95*1024*1024: print('!! больше 95 МБ, GitHub не примет:',rel); continue
         files.append({'path':rel,'size':sz,'md5':h})
+# большие файлы кеша из GitHub Releases (готовит ~/kmap.py)
+if os.path.exists(U+'cache_extra.json'):
+    have={x['path'] for x in files}
+    extra=[x for x in json.load(open(U+'cache_extra.json',encoding='utf-8')) if x['path'] not in have]
+    files+=extra; print('файлов кеша из релиза:',len(extra))
 news=[]
 if os.path.exists(U+'news.txt'):
     for l in open(U+'news.txt',encoding='utf-8'):
@@ -30,7 +35,8 @@ if os.path.exists(U+'links.txt'):
             k,v=l.split('=',1); links[k.strip()]=v.strip()
 print('новостей',len(news),'ссылок',len(links))
 json.dump({'apk_version':ver,'apk_url':apk_url,'news':news,'links':links,'files':files},open(U+'manifest.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
-for x in files: print(x['path'],x['size'])
+for x in files:
+    if 'url' not in x: print(x['path'],x['size'])
 print('apk_version',ver)
 os.chdir(U)
 subprocess.call(['git','add','-A'])
