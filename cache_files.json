@@ -1850,9 +1850,9 @@
 "md5": "1f2342a96a79533cc15b927538635702"
 },
 "texdb/gta3.img": {
-"size": 688781312,
-"mt": 1728310438,
-"md5": "d632d0167d46dfdcb3c2994ac1cc1fda"
+"size": 691759104,
+"mt": 1792795688,
+"md5": "167a483924daeb659c5bbc27b045166a"
 },
 "texdb/gta3/gta3.dxt.dat": {
 "size": 132050640,
@@ -1881,8 +1881,8 @@
 },
 "texdb/gta_int/gta_int.dxt.dat": {
 "size": 555029900,
-"mt": 1792623364,
-"md5": "49e9a1db1e5732d22cf9546e23a9fb81"
+"mt": 1792793745,
+"md5": "5265a05979b3bb156bacadeec86a9e1c"
 },
 "texdb/gta_int/gta_int.dxt.tmb": {
 "size": 677034,
@@ -1900,9 +1900,9 @@
 "md5": "c7df6212f219c80de120491b784c4a27"
 },
 "texdb/kentcars.img": {
-"size": 114810880,
-"mt": 1792452480,
-"md5": "0f312c254feb77e6f52a963796c79793"
+"size": 117788672,
+"mt": 1792795688,
+"md5": "3894dd19af2dd1ec6d1b5442e32a4d7c"
 },
 "texdb/kentcars/kentcars.dxt.dat": {
 "size": 4,
