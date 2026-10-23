@@ -132,9 +132,79 @@
    "md5": "171af0013571cb148a5c48aea600087b"
   },
   {
+   "path": "km/music/08.mp3",
+   "size": 14635929,
+   "md5": "b15dbe1f4a0b2791154048b5d33f46d7"
+  },
+  {
+   "path": "km/music/09.mp3",
+   "size": 7366574,
+   "md5": "5b9ebe76a8d29a6fcdfebc66d72b8de2"
+  },
+  {
+   "path": "km/music/10.mp3",
+   "size": 6144193,
+   "md5": "d34c6e6ab61fbd0a5ce279a1a83e5a95"
+  },
+  {
+   "path": "km/music/11.mp3",
+   "size": 8965267,
+   "md5": "94192490c6070a899bf7abdfc8f2dc08"
+  },
+  {
+   "path": "km/music/12.mp3",
+   "size": 5909805,
+   "md5": "7bf42b239e8d5ecb6b8a7b5ef83001cf"
+  },
+  {
+   "path": "km/music/13.mp3",
+   "size": 7076093,
+   "md5": "c6e531c788e642a5840c58105b288a5c"
+  },
+  {
+   "path": "km/music/14.mp3",
+   "size": 6439030,
+   "md5": "30310cb64b61b88114bd9ec88c1c159b"
+  },
+  {
+   "path": "km/music/15.mp3",
+   "size": 5022868,
+   "md5": "48bf00665830b0b68f239ebcb9864170"
+  },
+  {
+   "path": "km/music/16.mp3",
+   "size": 1649497,
+   "md5": "5900443039ef8064c7687ca768783114"
+  },
+  {
+   "path": "km/music/17.mp3",
+   "size": 5440656,
+   "md5": "2a8fe0a01e672772843f8011484272c2"
+  },
+  {
+   "path": "km/music/18.mp3",
+   "size": 5871537,
+   "md5": "d6740cd69838d2acd40230e1c997431d"
+  },
+  {
+   "path": "km/music/19.mp3",
+   "size": 6848305,
+   "md5": "fccefb425e2a12c31b1405020a6f3fb6"
+  },
+  {
+   "path": "km/music/20.mp3",
+   "size": 5029485,
+   "md5": "fb535e6f8c2e8ac3f2ef3723a975adc6"
+  },
+  {
+   "path": "km/music/21.mp3",
+   "size": 5844402,
+   "md5": "936ba3ce356eb3a00bbaa549b0ced08b"
+  },
+  {
    "path": "km/music/playlist.txt",
-   "size": 294,
-   "md5": "6b921d7eb94014bcd798d81f86a34801"
+   "size": 1004,
+   "md5": "410377d442c5d102e1e3fea0f074b843"
   },
   {
    "path": "km/data/maps/ty.IPL",
