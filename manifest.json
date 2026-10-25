@@ -140,6 +140,12 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/SAMP__script.img"
   },
   {
+   "path": "km/data/colorcycle.dat",
+   "size": 14904,
+   "md5": "8a40a800672cb2eab93103dd24d3c143",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__colorcycle.dat"
+  },
+  {
    "path": "km/data/gta.dat",
    "size": 1461,
    "md5": "fe0fdb95fecd53274c130adb519e8840",
@@ -2982,6 +2988,24 @@
    "size": 32978,
    "md5": "a6bbda4d693a987260b8120a57e1c04d",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__555.kmi"
+  },
+  {
+   "path": "km/salon/9001.kmi",
+   "size": 209430,
+   "md5": "f47539ac9d84d95c7dcb0141ed502603",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__9001.kmi"
+  },
+  {
+   "path": "km/salon/9002.kmi",
+   "size": 210584,
+   "md5": "f212e1b3d13e91638ef5eb8a32c590fd",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__9002.kmi"
+  },
+  {
+   "path": "km/salon/9003.kmi",
+   "size": 232272,
+   "md5": "0b1599fb8154e36cb8d051cf04b02869",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__9003.kmi"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
