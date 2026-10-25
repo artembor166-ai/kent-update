@@ -3905,49 +3905,49 @@
 "md5": "0b1599fb8154e36cb8d051cf04b02869"
 },
 "sounds/npc_p0_f.ogg": {
-"size": 54204,
-"mt": 1792946428,
-"md5": "12119807a48566bc74cb4231f89d47c9"
+"size": 51914,
+"mt": 1792955151,
+"md5": "57e6207c54aaa5e4cc47057d76257f49"
 },
 "sounds/npc_p0_m.ogg": {
-"size": 54770,
-"mt": 1792946428,
-"md5": "3b615ed44476610189ed9bb6b6ca0333"
+"size": 55154,
+"mt": 1792955151,
+"md5": "875e4186e7f65adf874208a8e1bfb2f7"
 },
 "sounds/npc_p1.ogg": {
-"size": 71500,
-"mt": 1792946428,
-"md5": "b09c78b1945fda8afa9255bf9bc77007"
+"size": 76434,
+"mt": 1792955151,
+"md5": "6c86a67a62601905270af9513e762273"
 },
 "sounds/npc_p2_f.ogg": {
-"size": 35722,
-"mt": 1792946428,
-"md5": "b683df4d882d46b874b3c7a933e8692e"
+"size": 34747,
+"mt": 1792955151,
+"md5": "344f252e679dd2dabd3e8b61b81e4c45"
 },
 "sounds/npc_p2_m.ogg": {
-"size": 35194,
-"mt": 1792946428,
-"md5": "faa275c2ef72dc10a7a07c3d1063215c"
+"size": 36736,
+"mt": 1792955152,
+"md5": "f33736a341bb03816d08fa9772a85300"
 },
 "sounds/npc_p3.ogg": {
-"size": 35769,
-"mt": 1792946428,
-"md5": "3d5cfe2de437829196c7e21a6d3b54e6"
+"size": 35000,
+"mt": 1792955152,
+"md5": "715effe172f92d44d79615ecd00bb4c6"
 },
 "sounds/npc_p4.ogg": {
-"size": 27027,
-"mt": 1792946428,
-"md5": "4ca9e1aaf31f677746d9cceeecf6cd1b"
+"size": 27280,
+"mt": 1792955152,
+"md5": "31d037a3193099fa2a4f06500e8373be"
 },
 "sounds/npc_p5_f.ogg": {
-"size": 51551,
-"mt": 1792946428,
-"md5": "25319cfa3c2c294577aca706ad5b4825"
+"size": 52022,
+"mt": 1792955152,
+"md5": "85dadd766dcd53445ddd94b6572bca3d"
 },
 "sounds/npc_p5_m.ogg": {
-"size": 49572,
-"mt": 1792946428,
-"md5": "69cf1fe08b70e06e46d023071fe47db2"
+"size": 50386,
+"mt": 1792955152,
+"md5": "828df35e8cc86690893459315448d9d8"
 },
 "sounds/sig_off.wav": {
 "size": 22128,
@@ -3968,5 +3968,70 @@
 "size": 12426,
 "mt": 1792894206,
 "md5": "311343cd0b342c986b5efc336fedad30"
+},
+"sounds/npc_p10_f.ogg": {
+"size": 43952,
+"mt": 1792955151,
+"md5": "bf5fd7bdb4e0f49e62db0198a4ff513e"
+},
+"sounds/npc_p10_m.ogg": {
+"size": 43703,
+"mt": 1792955151,
+"md5": "5eed623d7d06d21abc77bc7d741683c8"
+},
+"sounds/npc_p11.ogg": {
+"size": 45875,
+"mt": 1792955151,
+"md5": "d7773a6cd659020c554c1c1a432f64a0"
+},
+"sounds/npc_p12.ogg": {
+"size": 80015,
+"mt": 1792955151,
+"md5": "ee31ff54902ecaad4dc1715e628c3caf"
+},
+"sounds/npc_p13.ogg": {
+"size": 26554,
+"mt": 1792955151,
+"md5": "235f562c2eac6f7c994a076628f4361a"
+},
+"sounds/npc_p14_f.ogg": {
+"size": 43313,
+"mt": 1792955151,
+"md5": "294a83482038b4796c09b40be6c61491"
+},
+"sounds/npc_p14_m.ogg": {
+"size": 42590,
+"mt": 1792955151,
+"md5": "5af8ab99161e4f04d059fa4feef7349c"
+},
+"sounds/npc_p6_f.ogg": {
+"size": 85251,
+"mt": 1792955152,
+"md5": "4538075741df34d76b3ac7cae90dcfe1"
+},
+"sounds/npc_p6_m.ogg": {
+"size": 83033,
+"mt": 1792955152,
+"md5": "d9c9d415b3b4d2b860b7936f4aaf432a"
+},
+"sounds/npc_p7.ogg": {
+"size": 69877,
+"mt": 1792955152,
+"md5": "81c9b30093b30a4f165281b3f1476c0a"
+},
+"sounds/npc_p8_f.ogg": {
+"size": 38009,
+"mt": 1792955152,
+"md5": "f2055d9b8f1c8c1d2b765ecc38986ea1"
+},
+"sounds/npc_p8_m.ogg": {
+"size": 36451,
+"mt": 1792955152,
+"md5": "d7e6962478c22d2edba7ed93b27b8ae5"
+},
+"sounds/npc_p9.ogg": {
+"size": 38697,
+"mt": 1792955152,
+"md5": "b1ac5bb56667228c80d6f47b2bec0c83"
 }
 }
