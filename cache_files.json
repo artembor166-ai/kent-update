@@ -1,8 +1,8 @@
 {
 "SAMP/gta.dat": {
-"size": 1492,
-"mt": 1792613423,
-"md5": "b84965ac4fe281d9ac583c45bce7a5b1"
+"size": 1215,
+"mt": 1793019788,
+"md5": "f5967736916eced02f78e6eb7d14941a"
 },
 "SAMP/main.scm": {
 "size": 18398,
@@ -1770,13 +1770,13 @@
 "md5": "10066144ef14c40fff4d5bd3cc147360"
 },
 "data/water.dat": {
-"size": 50460,
-"mt": 1792660821,
-"md5": "b02ae944f86e72a3fac0fcb44a3d1356"
+"size": 41070,
+"mt": 1793019788,
+"md5": "009f64e8e17fe32f465bf32822e1488a"
 },
 "data/water1.dat": {
 "size": 60063,
-"mt": 1792660821,
+"mt": 1793019788,
 "md5": "16fe5a3e8c57d02eb62a44a96d8b9d39"
 },
 "data/water1s.dat": {
@@ -1850,29 +1850,29 @@
 "md5": "1f2342a96a79533cc15b927538635702"
 },
 "texdb/gta3.img": {
-"size": 691759104,
-"mt": 1792795688,
-"md5": "167a483924daeb659c5bbc27b045166a"
+"size": 841474048,
+"mt": 1793019769,
+"md5": "de6db1f30c9c1e03ccf8bf0dc06927b4"
 },
 "texdb/gta3/gta3.dxt.dat": {
-"size": 132050640,
-"mt": 1792620101,
-"md5": "405cc8b0984a305f374ffdbb10bdebf0"
+"size": 426068452,
+"mt": 1793019777,
+"md5": "358b99cb81f9897f41926f33e6c36600"
 },
 "texdb/gta3/gta3.dxt.tmb": {
-"size": 348576,
-"mt": 1728310451,
-"md5": "df12da218153516abf19bedb1ebf073b"
+"size": 744172,
+"mt": 1793019777,
+"md5": "4943df94af8df16bec2efb9d65a17a6f"
 },
 "texdb/gta3/gta3.dxt.toc": {
-"size": 11812,
-"mt": 1728310451,
-"md5": "28ab5b49db9c9046446522ed41d57cab"
+"size": 37036,
+"mt": 1793019777,
+"md5": "390a4f160bb1113496b6a49f8d36b5f0"
 },
 "texdb/gta3/gta3.txt": {
-"size": 180649,
-"mt": 1792617724,
-"md5": "bde7f2cf63fa2bb49fa3a5e2153a674c"
+"size": 548362,
+"mt": 1793019777,
+"md5": "9c0554e90b0ce0883836715d9cf440b1"
 },
 "texdb/gta_int.img": {
 "size": 32276480,
@@ -1880,28 +1880,28 @@
 "md5": "6eeae21adb41d90ba69d12e870f0a366"
 },
 "texdb/gta_int/gta_int.dxt.dat": {
-"size": 555029900,
-"mt": 1792793745,
-"md5": "5265a05979b3bb156bacadeec86a9e1c"
+"size": 622605852,
+"mt": 1793019787,
+"md5": "8bcfd6a610b8870b435179509e0d4d16"
 },
 "texdb/gta_int/gta_int.dxt.tmb": {
-"size": 677034,
-"mt": 1728310438,
-"md5": "8185cc8f14ef613700f48602a5ec5e7f"
+"size": 728202,
+"mt": 1793019787,
+"md5": "c7a115bb21803b447b1e3aeb9f0e6d2e"
 },
 "texdb/gta_int/gta_int.dxt.toc": {
-"size": 53336,
-"mt": 1728310438,
-"md5": "7b13984b63e5a208ac01937667e4de7e"
+"size": 54128,
+"mt": 1793019787,
+"md5": "ec7e390dd12d849b2c183e42a84b6f46"
 },
 "texdb/gta_int/gta_int.txt": {
-"size": 695978,
-"mt": 1728310451,
-"md5": "c7df6212f219c80de120491b784c4a27"
+"size": 707516,
+"mt": 1793019787,
+"md5": "3f9aaa38a4d152af7e783be2d0747b18"
 },
 "texdb/kentcars.img": {
 "size": 117788672,
-"mt": 1792795688,
+"mt": 1793019751,
 "md5": "3894dd19af2dd1ec6d1b5442e32a4d7c"
 },
 "texdb/kentcars/kentcars.dxt.dat": {
@@ -4033,5 +4033,135 @@
 "size": 38697,
 "mt": 1792955152,
 "md5": "b1ac5bb56667228c80d6f47b2bec0c83"
+},
+"data/maps/CR1.ide": {
+"size": 42532,
+"mt": 1793019788,
+"md5": "7973359ef57e598bc793348982e3f152"
+},
+"data/maps/CR1.ipl": {
+"size": 103174,
+"mt": 1793019788,
+"md5": "e0a3baaa5c4262bb93460411fdafa6d4"
+},
+"data/maps/CR10.ide": {
+"size": 480,
+"mt": 1793019787,
+"md5": "7cefb8bd08617d09d73959a3c5857fae"
+},
+"data/maps/CR10.ipl": {
+"size": 225292,
+"mt": 1793019787,
+"md5": "54ac4173622147af4f7a1483b2214a24"
+},
+"data/maps/CR11.ide": {
+"size": 86216,
+"mt": 1793019787,
+"md5": "34f6175cb67bc4746c74adb3f7772585"
+},
+"data/maps/CR11.ipl": {
+"size": 229846,
+"mt": 1793019787,
+"md5": "5876522cd11dc247c7fac473795c5120"
+},
+"data/maps/CR12.ide": {
+"size": 14703,
+"mt": 1793019787,
+"md5": "7a8f247ca973fc6b5da55fd913a071ce"
+},
+"data/maps/CR12.ipl": {
+"size": 34075,
+"mt": 1793019787,
+"md5": "ae7db4e4f6f5eaa900273e62e413ec89"
+},
+"data/maps/CR14.ide": {
+"size": 267,
+"mt": 1793019787,
+"md5": "94e086a92fdaaea3bfb18beab7dfe08d"
+},
+"data/maps/CR14.ipl": {
+"size": 51160,
+"mt": 1793019787,
+"md5": "d7a1e55c0be8bc1158c5e4270fbaae8a"
+},
+"data/maps/CR2.ide": {
+"size": 22367,
+"mt": 1793019788,
+"md5": "1ba986517cd1dfe658ae1adc8868368a"
+},
+"data/maps/CR2.ipl": {
+"size": 67241,
+"mt": 1793019788,
+"md5": "15758db34ca04b84061b90bebf39ade3"
+},
+"data/maps/CR3.ide": {
+"size": 16485,
+"mt": 1793019788,
+"md5": "433e68050172080ef4ed6facf635d04a"
+},
+"data/maps/CR3.ipl": {
+"size": 65305,
+"mt": 1793019788,
+"md5": "f285ca806f64b2379d3cd0a2a2ef9a1e"
+},
+"data/maps/CR4.ide": {
+"size": 13624,
+"mt": 1793019788,
+"md5": "2b0b0e18dc6c72e5b50559f83f117358"
+},
+"data/maps/CR4.ipl": {
+"size": 25764,
+"mt": 1793019788,
+"md5": "90aac7295391c33c9422df25c49f31f8"
+},
+"data/maps/CR5.ide": {
+"size": 10147,
+"mt": 1793019788,
+"md5": "78bb1c64416f19e53dd1ef0c7adfe9e4"
+},
+"data/maps/CR5.ipl": {
+"size": 20472,
+"mt": 1793019788,
+"md5": "aece8a537b7eb31fe127165d85bc547c"
+},
+"data/maps/CR6.ide": {
+"size": 3045,
+"mt": 1793019788,
+"md5": "ebb09898f688c3939968270611a110f3"
+},
+"data/maps/CR6.ipl": {
+"size": 50824,
+"mt": 1793019788,
+"md5": "220cccc8af7700a01cbfd5cc3bae67c8"
+},
+"data/maps/CR7.ide": {
+"size": 6481,
+"mt": 1793019788,
+"md5": "50b119111cab098c7526f5f3fbc88d90"
+},
+"data/maps/CR7.ipl": {
+"size": 78818,
+"mt": 1793019788,
+"md5": "d582fe7ee3ea365b31d1ed39611c4d92"
+},
+"data/maps/CR8.ide": {
+"size": 68384,
+"mt": 1793019788,
+"md5": "3fb7085c507e62e79adfe5073f05cbcf"
+},
+"data/maps/CR8.ipl": {
+"size": 339239,
+"mt": 1793019788,
+"md5": "7c215ae8caf04f725740f8c9fe33c0b5"
+},
+"data/maps/CR9.ide": {
+"size": 583,
+"mt": 1793019787,
+"md5": "16df63f1f3c0b3542d5debd485aa2976"
+},
+"data/maps/CR9.ipl": {
+"size": 325724,
+"mt": 1793019787,
+"md5": "8f5e12b8e2b9bbcc7820b88388c56670"
 }
 }

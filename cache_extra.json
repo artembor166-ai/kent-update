@@ -1,8 +1,8 @@
 [
 {
 "path": "km/SAMP/gta.dat",
-"size": 1492,
-"md5": "b84965ac4fe281d9ac583c45bce7a5b1",
+"size": 1215,
+"md5": "f5967736916eced02f78e6eb7d14941a",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/SAMP__gta.dat"
 },
 {
@@ -190,6 +190,162 @@
 "size": 2531,
 "md5": "b92941a6e8580a645a985c535131ffc8",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__BRIDGES__bridge_p.IPL"
+},
+{
+"path": "km/data/maps/CR1.ide",
+"size": 42532,
+"md5": "7973359ef57e598bc793348982e3f152",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR1.ide"
+},
+{
+"path": "km/data/maps/CR1.ipl",
+"size": 103174,
+"md5": "e0a3baaa5c4262bb93460411fdafa6d4",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR1.ipl"
+},
+{
+"path": "km/data/maps/CR10.ide",
+"size": 480,
+"md5": "7cefb8bd08617d09d73959a3c5857fae",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR10.ide"
+},
+{
+"path": "km/data/maps/CR10.ipl",
+"size": 225292,
+"md5": "54ac4173622147af4f7a1483b2214a24",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR10.ipl"
+},
+{
+"path": "km/data/maps/CR11.ide",
+"size": 86216,
+"md5": "34f6175cb67bc4746c74adb3f7772585",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR11.ide"
+},
+{
+"path": "km/data/maps/CR11.ipl",
+"size": 229846,
+"md5": "5876522cd11dc247c7fac473795c5120",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR11.ipl"
+},
+{
+"path": "km/data/maps/CR12.ide",
+"size": 14703,
+"md5": "7a8f247ca973fc6b5da55fd913a071ce",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR12.ide"
+},
+{
+"path": "km/data/maps/CR12.ipl",
+"size": 34075,
+"md5": "ae7db4e4f6f5eaa900273e62e413ec89",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR12.ipl"
+},
+{
+"path": "km/data/maps/CR14.ide",
+"size": 267,
+"md5": "94e086a92fdaaea3bfb18beab7dfe08d",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR14.ide"
+},
+{
+"path": "km/data/maps/CR14.ipl",
+"size": 51160,
+"md5": "d7a1e55c0be8bc1158c5e4270fbaae8a",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR14.ipl"
+},
+{
+"path": "km/data/maps/CR2.ide",
+"size": 22367,
+"md5": "1ba986517cd1dfe658ae1adc8868368a",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR2.ide"
+},
+{
+"path": "km/data/maps/CR2.ipl",
+"size": 67241,
+"md5": "15758db34ca04b84061b90bebf39ade3",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR2.ipl"
+},
+{
+"path": "km/data/maps/CR3.ide",
+"size": 16485,
+"md5": "433e68050172080ef4ed6facf635d04a",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR3.ide"
+},
+{
+"path": "km/data/maps/CR3.ipl",
+"size": 65305,
+"md5": "f285ca806f64b2379d3cd0a2a2ef9a1e",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR3.ipl"
+},
+{
+"path": "km/data/maps/CR4.ide",
+"size": 13624,
+"md5": "2b0b0e18dc6c72e5b50559f83f117358",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR4.ide"
+},
+{
+"path": "km/data/maps/CR4.ipl",
+"size": 25764,
+"md5": "90aac7295391c33c9422df25c49f31f8",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR4.ipl"
+},
+{
+"path": "km/data/maps/CR5.ide",
+"size": 10147,
+"md5": "78bb1c64416f19e53dd1ef0c7adfe9e4",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR5.ide"
+},
+{
+"path": "km/data/maps/CR5.ipl",
+"size": 20472,
+"md5": "aece8a537b7eb31fe127165d85bc547c",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR5.ipl"
+},
+{
+"path": "km/data/maps/CR6.ide",
+"size": 3045,
+"md5": "ebb09898f688c3939968270611a110f3",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR6.ide"
+},
+{
+"path": "km/data/maps/CR6.ipl",
+"size": 50824,
+"md5": "220cccc8af7700a01cbfd5cc3bae67c8",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR6.ipl"
+},
+{
+"path": "km/data/maps/CR7.ide",
+"size": 6481,
+"md5": "50b119111cab098c7526f5f3fbc88d90",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR7.ide"
+},
+{
+"path": "km/data/maps/CR7.ipl",
+"size": 78818,
+"md5": "d582fe7ee3ea365b31d1ed39611c4d92",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR7.ipl"
+},
+{
+"path": "km/data/maps/CR8.ide",
+"size": 68384,
+"md5": "3fb7085c507e62e79adfe5073f05cbcf",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR8.ide"
+},
+{
+"path": "km/data/maps/CR8.ipl",
+"size": 339239,
+"md5": "7c215ae8caf04f725740f8c9fe33c0b5",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR8.ipl"
+},
+{
+"path": "km/data/maps/CR9.ide",
+"size": 583,
+"md5": "16df63f1f3c0b3542d5debd485aa2976",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR9.ide"
+},
+{
+"path": "km/data/maps/CR9.ipl",
+"size": 325724,
+"md5": "8f5e12b8e2b9bbcc7820b88388c56670",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR9.ipl"
 },
 {
 "path": "km/data/maps/EMPTY.IPL",
@@ -2077,8 +2233,8 @@
 },
 {
 "path": "km/data/water.dat",
-"size": 50460,
-"md5": "b02ae944f86e72a3fac0fcb44a3d1356",
+"size": 41070,
+"md5": "009f64e8e17fe32f465bf32822e1488a",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__water.dat"
 },
 {
@@ -3115,32 +3271,32 @@
 },
 {
 "path": "km/texdb/gta3.img",
-"size": 691759104,
-"md5": "167a483924daeb659c5bbc27b045166a",
+"size": 841474048,
+"md5": "de6db1f30c9c1e03ccf8bf0dc06927b4",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta3.img"
 },
 {
 "path": "km/texdb/gta3/gta3.dxt.dat",
-"size": 132050640,
-"md5": "405cc8b0984a305f374ffdbb10bdebf0",
+"size": 426068452,
+"md5": "358b99cb81f9897f41926f33e6c36600",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta3__gta3.dxt.dat"
 },
 {
 "path": "km/texdb/gta3/gta3.dxt.tmb",
-"size": 348576,
-"md5": "df12da218153516abf19bedb1ebf073b",
+"size": 744172,
+"md5": "4943df94af8df16bec2efb9d65a17a6f",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta3__gta3.dxt.tmb"
 },
 {
 "path": "km/texdb/gta3/gta3.dxt.toc",
-"size": 11812,
-"md5": "28ab5b49db9c9046446522ed41d57cab",
+"size": 37036,
+"md5": "390a4f160bb1113496b6a49f8d36b5f0",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta3__gta3.dxt.toc"
 },
 {
 "path": "km/texdb/gta3/gta3.txt",
-"size": 180649,
-"md5": "bde7f2cf63fa2bb49fa3a5e2153a674c",
+"size": 548362,
+"md5": "9c0554e90b0ce0883836715d9cf440b1",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta3__gta3.txt"
 },
 {
@@ -3151,26 +3307,26 @@
 },
 {
 "path": "km/texdb/gta_int/gta_int.dxt.dat",
-"size": 555029900,
-"md5": "5265a05979b3bb156bacadeec86a9e1c",
+"size": 622605852,
+"md5": "8bcfd6a610b8870b435179509e0d4d16",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta_int__gta_int.dxt.dat"
 },
 {
 "path": "km/texdb/gta_int/gta_int.dxt.tmb",
-"size": 677034,
-"md5": "8185cc8f14ef613700f48602a5ec5e7f",
+"size": 728202,
+"md5": "c7a115bb21803b447b1e3aeb9f0e6d2e",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta_int__gta_int.dxt.tmb"
 },
 {
 "path": "km/texdb/gta_int/gta_int.dxt.toc",
-"size": 53336,
-"md5": "7b13984b63e5a208ac01937667e4de7e",
+"size": 54128,
+"md5": "ec7e390dd12d849b2c183e42a84b6f46",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta_int__gta_int.dxt.toc"
 },
 {
 "path": "km/texdb/gta_int/gta_int.txt",
-"size": 695978,
-"md5": "c7df6212f219c80de120491b784c4a27",
+"size": 707516,
+"md5": "3f9aaa38a4d152af7e783be2d0747b18",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta_int__gta_int.txt"
 },
 {
