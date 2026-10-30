@@ -1,5 +1,5 @@
 {
- "apk_version": 17,
+ "apk_version": 18,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -118,8 +118,8 @@
   },
   {
    "path": "lib/libsamp.so",
-   "size": 3370816,
-   "md5": "59496b334a7e23699f3f79012966cbd8"
+   "size": 3372464,
+   "md5": "5264fbe2495c1f6391fb5a67bc917b83"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
@@ -218,12 +218,12 @@
   {
    "path": "km/texdb/gta3.img",
    "size": 994480128,
-   "md5": "ae3b05a6bd0a0fae352fb86b9b9996e1",
+   "md5": "583449453c0ead7f133de7bf7de5fc8f",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "20d0c3bb8bba609df90d9eabef220789",
+     "1b6699bfd98d1d11ccf9deaa054a2a8a",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000"
     ],
     [
@@ -1361,12 +1361,12 @@
   {
    "path": "km/texdb/kentcars.img",
    "size": 262236160,
-   "md5": "9f8a7963d62935b0b8e3e2ebfebf3cf0",
+   "md5": "39517ef63cefadcc5eacb7661dad32d6",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "de7259c04dbfa0bcb4536d9d839dff9d",
+     "98539319c683ae2ea83623d6bcd080b0",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
     ],
     [
