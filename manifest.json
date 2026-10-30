@@ -217,13 +217,13 @@
   },
   {
    "path": "km/texdb/gta3.img",
-   "size": 1001465856,
-   "md5": "545f33af3bb9c6d535d1686602d0ff18",
+   "size": 1044793344,
+   "md5": "eee34ab50ffa615ecd422fc59a70ecf4",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "3d9ea97f8fe875c280191336a1940e53",
+     "23f0fb6a83e834fdf2b48f47bfdb8535",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000"
     ],
     [
@@ -699,15 +699,35 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c118"
     ],
     [
-     "95e9411f70426ae9995f01bbb8cba0cf",
+     "9272d9ca89e43eccac5b00ee71a011bf",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c119"
+    ],
+    [
+     "dba0b5f89190902f88c71d6f15f8da51",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c120"
+    ],
+    [
+     "b9dda4bfb31afb5cf966780e9ada2237",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c121"
+    ],
+    [
+     "f98648376cca9855e562c58032366dc8",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c122"
+    ],
+    [
+     "00ac870d74cb17ef9bc34de46d35c832",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c123"
+    ],
+    [
+     "868a7daaffc1c41c484cb6a179e5c197",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c124"
     ]
    ]
   },
   {
    "path": "km/texdb/gta3/gta3.dxt.dat",
-   "size": 707794330,
-   "md5": "67ae83b7714d3155b21ccaad4547709d",
+   "size": 803093082,
+   "md5": "952aea616bbd0b92a47c853ce63262e2",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__gta3__gta3.dxt.dat.c000",
    "cs": 8388608,
    "chunks": [
@@ -1048,8 +1068,52 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c083"
     ],
     [
-     "8609f11b5d09526eafde9e20cfed5c92",
+     "0084fd6a607f77a1430e79d2b8bd3e2a",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c084"
+    ],
+    [
+     "d9af9cbf03187524142897b41d07e4e1",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c085"
+    ],
+    [
+     "98ac2d71f429a17aa6e05d2feef04766",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c086"
+    ],
+    [
+     "1a0eda5a338e411e21d534a4bce4e1aa",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c087"
+    ],
+    [
+     "468b6e6c210b98ec5825b1ea934e65c6",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c088"
+    ],
+    [
+     "c5c2ffb416f4333bf097a22c31a396c3",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c089"
+    ],
+    [
+     "a41d7589280629ce28c2d89fda8e7d77",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c090"
+    ],
+    [
+     "ee88bcd3945bb860a3221ac028cadc76",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c091"
+    ],
+    [
+     "cac4138ff15bd94f6da79cfb549c9c33",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c092"
+    ],
+    [
+     "616946e7acbb00976d96ea358071d2c2",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c093"
+    ],
+    [
+     "60be669bfc9b63a01746fb64dffa371a",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c094"
+    ],
+    [
+     "6638a2d07c3464bb2d7b17e29bd30cf1",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.dat.c095"
     ]
    ]
   },
@@ -1364,13 +1428,13 @@
   },
   {
    "path": "km/texdb/kentcars.img",
-   "size": 269221888,
-   "md5": "d0845f5921edc13c7861ced341a71a35",
+   "size": 287471616,
+   "md5": "9da1a50aa6272b624946f80b35a28e1c",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "eff9f8c359b70d511d82907be8270a4d",
+     "0f835c8dcf2b6f115a193133a44e924b",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
     ],
     [
@@ -1498,8 +1562,16 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c031"
     ],
     [
-     "1fb88ed5ea226aed846bdca3103b4f0f",
+     "d65ab0810391817d98bd2c73d50f4bf8",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c032"
+    ],
+    [
+     "cb135a852fe789c123adb19224b4ad66",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c033"
+    ],
+    [
+     "e3f837839f0effb13ece8f5c38cbc099",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c034"
     ]
    ]
   },
@@ -1535,8 +1607,8 @@
   },
   {
    "path": "km/SAMP/vehicles.ide",
-   "size": 20963,
-   "md5": "b8fde23a09b086eedcc72af56de30090",
+   "size": 20952,
+   "md5": "d3197c2adcb4dd66a4f7c4a8ee83f9d9",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/SAMP__vehicles.ide"
   },
   {
@@ -3791,8 +3863,8 @@
   },
   {
    "path": "km/data/vehicles.ide",
-   "size": 20959,
-   "md5": "a97587f44a68c9d86694243fb7a8e3b0",
+   "size": 20948,
+   "md5": "0c94ae2a7f165531bb769d9260f0d1c0",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__vehicles.ide"
   },
   {
@@ -4306,6 +4378,84 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/music__playlist.txt"
   },
   {
+   "path": "km/salon/10.kmi",
+   "size": 12552,
+   "md5": "d5ecf7135553eef9434a9b25599f741b",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__10.kmi"
+  },
+  {
+   "path": "km/salon/12.kmi",
+   "size": 13050,
+   "md5": "3b78e6d51547ee813b26d4f1d285ac70",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__12.kmi"
+  },
+  {
+   "path": "km/salon/15.kmi",
+   "size": 14278,
+   "md5": "efbeb1a59778431eb7a976facc08c790",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__15.kmi"
+  },
+  {
+   "path": "km/salon/2.kmi",
+   "size": 13038,
+   "md5": "aa981c0760c3459a9e36ccd7c34b79d2",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__2.kmi"
+  },
+  {
+   "path": "km/salon/222.kmi",
+   "size": 14378,
+   "md5": "470410e8ccc706bac57d252bb92e4849",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__222.kmi"
+  },
+  {
+   "path": "km/salon/223.kmi",
+   "size": 15156,
+   "md5": "bb80905cd672b4cd9519be0b6920c1d7",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__223.kmi"
+  },
+  {
+   "path": "km/salon/23.kmi",
+   "size": 12474,
+   "md5": "15ac45c2e51405cbaf24bc6e1ec25c00",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__23.kmi"
+  },
+  {
+   "path": "km/salon/230.kmi",
+   "size": 15836,
+   "md5": "65a479894d7f08ef6a96c0326d49a20d",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__230.kmi"
+  },
+  {
+   "path": "km/salon/24.kmi",
+   "size": 16672,
+   "md5": "c27482a7c5037359ddd681a6278c3ce3",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__24.kmi"
+  },
+  {
+   "path": "km/salon/242.kmi",
+   "size": 18280,
+   "md5": "f0e1dd0c9fb2fccec626c4b0141d8c3f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__242.kmi"
+  },
+  {
+   "path": "km/salon/26.kmi",
+   "size": 13188,
+   "md5": "bbf253200c4a35c9ac22bfac01edfc4c",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__26.kmi"
+  },
+  {
+   "path": "km/salon/3.kmi",
+   "size": 10840,
+   "md5": "e03adfe92d1c19b16aada78f8f5b483f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__3.kmi"
+  },
+  {
+   "path": "km/salon/39.kmi",
+   "size": 12070,
+   "md5": "bf76fc2e60e90e1095feb79514419c2b",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__39.kmi"
+  },
+  {
    "path": "km/salon/400.kmi",
    "size": 51778,
    "md5": "96b6af08332fd087046944124bb0c1fb",
@@ -4366,6 +4516,12 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__415.kmi"
   },
   {
+   "path": "km/salon/418.kmi",
+   "size": 22272,
+   "md5": "258b8448fc38e9903634fb8e9a9b66d4",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__418.kmi"
+  },
+  {
    "path": "km/salon/419.kmi",
    "size": 44312,
    "md5": "3abb9a1824ce47a798de56bcf77b4c69",
@@ -4402,6 +4558,12 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__439.kmi"
   },
   {
+   "path": "km/salon/44.kmi",
+   "size": 7904,
+   "md5": "a030d61796df40e0d15f14867d4ae64f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__44.kmi"
+  },
+  {
    "path": "km/salon/442.kmi",
    "size": 49016,
    "md5": "5bfcfc4babd82813a94f1554ab55bd8a",
@@ -4412,6 +4574,12 @@
    "size": 43508,
    "md5": "63998b6f7725812ed06c569c6eb63190",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__445.kmi"
+  },
+  {
+   "path": "km/salon/45.kmi",
+   "size": 9878,
+   "md5": "d2b4602d42ae080ff6a90bbe0fa07689",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__45.kmi"
   },
   {
    "path": "km/salon/451.kmi",
@@ -4618,6 +4786,12 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/salon__529.kmi"
   },
   {
+   "path": "km/salon/53.kmi",
+   "size": 17160,
+   "md5": "fb419e3a377e455257f4630d503f4474",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__53.kmi"
+  },
+  {
    "path": "km/salon/554.kmi",
    "size": 24322,
    "md5": "be4f5aecf896302855e633b89e12461b",
@@ -4637,8 +4811,8 @@
   },
   {
    "path": "km/salon/579.kmi",
-   "size": 26518,
-   "md5": "61aedf1afbfc285e6e8f139f4105291e",
+   "size": 20634,
+   "md5": "a7bd9494d5e4f841a747e451d098184a",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__579.kmi"
   },
   {
@@ -4895,20 +5069,20 @@
   },
   {
    "path": "km/texdb/gta3/gta3.dxt.tmb",
-   "size": 1068268,
-   "md5": "1639e05a1a8fe24521cb6c48929392cb",
+   "size": 1121580,
+   "md5": "76f0508c312ed46ad4d8e01010e1bb8b",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.tmb"
   },
   {
    "path": "km/texdb/gta3/gta3.dxt.toc",
-   "size": 41764,
-   "md5": "eacb38c081876d3718bca4ab565d0a0c",
+   "size": 42548,
+   "md5": "a8ab4c08ca7ecadbcc378f14f3617b64",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.dxt.toc"
   },
   {
    "path": "km/texdb/gta3/gta3.txt",
-   "size": 620725,
-   "md5": "6247cc204161e33f2de2cb374483c20e",
+   "size": 632751,
+   "md5": "682909756f4ad7e7c85b8535f84e30a6",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3__gta3.txt"
   },
   {
