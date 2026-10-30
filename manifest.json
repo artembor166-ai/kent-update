@@ -217,13 +217,13 @@
   },
   {
    "path": "km/texdb/gta3.img",
-   "size": 994480128,
-   "md5": "583449453c0ead7f133de7bf7de5fc8f",
+   "size": 1001465856,
+   "md5": "545f33af3bb9c6d535d1686602d0ff18",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "1b6699bfd98d1d11ccf9deaa054a2a8a",
+     "3d9ea97f8fe875c280191336a1940e53",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000"
     ],
     [
@@ -635,15 +635,15 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c102"
     ],
     [
-     "ef64f11699d1ad6998dfa43435256076",
+     "07078c0b75b1ba947a79a65172f7182d",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c103"
     ],
     [
-     "435b2c139ed409ef5d4f83a03391db42",
+     "82ac79d52e6536a35e1b690c2a55cc36",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c104"
     ],
     [
-     "213f5e83fb0bcf6a458264a4566fdfe3",
+     "833fdc7b9ea1e4e52dc973d65457e159",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c105"
     ],
     [
@@ -651,11 +651,11 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c106"
     ],
     [
-     "51054afb4bbd4d436f4689c93323c8bc",
+     "0ddfd1a5fe6c074d81a73c2e441e3c9e",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c107"
     ],
     [
-     "af85ab35f3fe7dd8a6fa53f04fd6dae6",
+     "a434f5d345e24b205741736fa2f1b016",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c108"
     ],
     [
@@ -667,7 +667,7 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c110"
     ],
     [
-     "1a6929fba5f3f25a184c9d4469d00db1",
+     "98b6ffa64fce2f80f891fa6c83f7e580",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c111"
     ],
     [
@@ -675,19 +675,19 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c112"
     ],
     [
-     "50469c9de684ec27c81b9a8add139e51",
+     "ffbb4677faa387d8fa392a92155ea531",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c113"
     ],
     [
-     "47ffaec20c22a3bd0f8e6278653a6652",
+     "7bd29d774ff859a9ad621181f06a4a21",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c114"
     ],
     [
-     "7607fef8a53ef1e7023abc640def21d6",
+     "2c8d2d194a3bd461355b5b9df97dd561",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c115"
     ],
     [
-     "6ec1d8199f711608b86896244a02b12b",
+     "3b7e7a594fca6f8c118e9e2420059af6",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c116"
     ],
     [
@@ -695,8 +695,12 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c117"
     ],
     [
-     "aa3c1f46d92862617d707f791ad2c94c",
+     "b0aef4dc7c87a0daff6eea18eb10d3ee",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c118"
+    ],
+    [
+     "95e9411f70426ae9995f01bbb8cba0cf",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c119"
     ]
    ]
   },
@@ -1360,13 +1364,13 @@
   },
   {
    "path": "km/texdb/kentcars.img",
-   "size": 262236160,
-   "md5": "39517ef63cefadcc5eacb7661dad32d6",
+   "size": 269221888,
+   "md5": "d0845f5921edc13c7861ced341a71a35",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "98539319c683ae2ea83623d6bcd080b0",
+     "eff9f8c359b70d511d82907be8270a4d",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
     ],
     [
@@ -1446,11 +1450,11 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c019"
     ],
     [
-     "4dec750f854faa23be1d8860601a16d1",
+     "ab1c312f6e860a634610463c85ff89ad",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c020"
     ],
     [
-     "50f3c04c9264cc5fdbc0546299d8e4e5",
+     "564784969ab5ccd78cb8ed1742244aa8",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c021"
     ],
     [
@@ -1466,7 +1470,7 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c024"
     ],
     [
-     "63888923308b9cdd132fe8a3fec329a4",
+     "acaea3e8b99f639b226ffc92a6a24451",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c025"
     ],
     [
@@ -1474,24 +1478,28 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c026"
     ],
     [
-     "7d43f27e48e06d9066881cb46e48521c",
+     "3165494c14a7b58db480d1b29337a84a",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c027"
     ],
     [
-     "866c1a8c76eeaca1d43c1f7793f226e0",
+     "8300a3e3fe92d31eefc3c168b1892907",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c028"
     ],
     [
-     "cec37b7fb4858e64d9d53795203a1392",
+     "f28e8e96bf347cf1497d662b0c0e8051",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c029"
     ],
     [
-     "0e56a1accbe8bfde00d3bc869f05c1c6",
+     "b9859d7c238c18d56ed65f975b8d1ed5",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c030"
     ],
     [
-     "75a9295ff6e73df94b3a7c21b118a43d",
+     "4d1019f6da411eec1a72aac11b16c56d",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c031"
+    ],
+    [
+     "1fb88ed5ea226aed846bdca3103b4f0f",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c032"
     ]
    ]
   },
