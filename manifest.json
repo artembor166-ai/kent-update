@@ -1,5 +1,5 @@
 {
- "apk_version": 18,
+ "apk_version": 20,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -118,8 +118,8 @@
   },
   {
    "path": "lib/libsamp.so",
-   "size": 3372464,
-   "md5": "5264fbe2495c1f6391fb5a67bc917b83"
+   "size": 3387160,
+   "md5": "da8beae875843ea938dc09b492273303"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
@@ -218,7 +218,7 @@
   {
    "path": "km/texdb/gta3.img",
    "size": 1044793344,
-   "md5": "eee34ab50ffa615ecd422fc59a70ecf4",
+   "md5": "197fbd0a6b17dc3da002fb0b2968f159",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000",
    "cs": 8388608,
    "chunks": [
@@ -711,15 +711,15 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c121"
     ],
     [
-     "f98648376cca9855e562c58032366dc8",
+     "77c186690e7003e9620fa5824504195b",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c122"
     ],
     [
-     "00ac870d74cb17ef9bc34de46d35c832",
+     "440655c9a4c467dc6d1028df476c8c2e",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c123"
     ],
     [
-     "868a7daaffc1c41c484cb6a179e5c197",
+     "89adcb50f8d6bb409b0ff5a709bf5f2b",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c124"
     ]
    ]
@@ -1925,15 +1925,15 @@
   },
   {
    "path": "km/data/maps/CR8.ide",
-   "size": 68384,
-   "md5": "3fb7085c507e62e79adfe5073f05cbcf",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR8.ide"
+   "size": 67068,
+   "md5": "8c81a44cac9980dd5b662ddf78e03735",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__CR8.ide"
   },
   {
    "path": "km/data/maps/CR8.ipl",
-   "size": 339239,
-   "md5": "7c215ae8caf04f725740f8c9fe33c0b5",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__maps__CR8.ipl"
+   "size": 308488,
+   "md5": "56444d524e5dedf77673483eb97283fe",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__CR8.ipl"
   },
   {
    "path": "km/data/maps/CR9.ide",
