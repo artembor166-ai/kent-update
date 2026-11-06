@@ -1,5 +1,5 @@
 {
- "apk_version": 40,
+ "apk_version": 41,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -4418,6 +4418,18 @@
    "size": 199764,
    "md5": "9fef18feef9dbcbfb4fa2bc43b88eeda",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/fonts__arial_bold.ttf"
+  },
+  {
+   "path": "km/gta_sa.set",
+   "size": 159,
+   "md5": "e00200bb3cedaec1a33ba62dc841c1f1",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/gta_sa.set"
+  },
+  {
+   "path": "km/gtasatelem.set",
+   "size": 392,
+   "md5": "3b9a4be45664e3724cc68ab414850b3c",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/gtasatelem.set"
   },
   {
    "path": "km/models/coll/peds.col",
