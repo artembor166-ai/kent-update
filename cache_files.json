@@ -5243,5 +5243,350 @@
 "size": 23900,
 "mt": 1793926296,
 "md5": "d2804455d19453e3876ad06164e75cb5"
+},
+"GTASAMP10.b": {
+"size": 195000,
+"mt": 1791980834,
+"md5": "6345101941642a731732021dd82f5706"
+},
+"GTASAsf1.b": {
+"size": 195000,
+"mt": 1791980834,
+"md5": "1c1cb684ab921fe3ad67fc611a9c7f7f"
+},
+"Text/american.gxt": {
+"size": 1339424,
+"mt": 1791980850,
+"md5": "0d98f4ac301aa85ffc364776016fbd3f"
+},
+"Text/french.gxt": {
+"size": 1459044,
+"mt": 1791980850,
+"md5": "d445b811f6233ee5d04ba31bc71bc4a8"
+},
+"Text/german.gxt": {
+"size": 1497182,
+"mt": 1791980850,
+"md5": "ece9907e0a74edba2dfb922865c0bf09"
+},
+"Text/italian.gxt": {
+"size": 1371048,
+"mt": 1791980850,
+"md5": "518b5dad605141ab4715e18223c957cf"
+},
+"Text/japanese.gxt": {
+"size": 643202,
+"mt": 1791980850,
+"md5": "93518ed97249791d9dd9012b8f893a3a"
+},
+"Text/russian.gxt": {
+"size": 1421038,
+"mt": 1791980850,
+"md5": "68f489672ba229e40b4d505d4db2015f"
+},
+"Text/spanish.gxt": {
+"size": 1386744,
+"mt": 1791980850,
+"md5": "53e71646162d02d56cc28ecb9cf312c2"
+},
+"Textures/fonts/JapaneseFont.met": {
+"size": 45171,
+"mt": 1791980850,
+"md5": "a69f4a58899fb9b4696da22a4c4aa14b"
+},
+"Textures/fonts/JapaneseFont.png": {
+"size": 187721,
+"mt": 1791980850,
+"md5": "0fe532b0f792714fe5ea965d2ace9482"
+},
+"Textures/fonts/RussianFont.met": {
+"size": 4279,
+"mt": 1791980850,
+"md5": "ea75831cddeee4b4a9ed092e6407432c"
+},
+"Textures/fonts/RussianFont.png": {
+"size": 38743,
+"mt": 1791980850,
+"md5": "190da2434f90e7b96cea7cfc80ae03b0"
+},
+"anim/anim.img": {
+"size": 10942464,
+"mt": 1792705934,
+"md5": "3359ba8cb820299161199ee7ef3f1c02"
+},
+"anim/cuts.img": {
+"size": 16029696,
+"mt": 1791980832,
+"md5": "47ed437d63709bc3b194a5781fd1b9d6"
+},
+"anim/ped.ifp": {
+"size": 1433248,
+"mt": 1791980832,
+"md5": "4736b2c90b00981255f9507308ee9174"
+},
+"audio/CONFIG/AudioEventHistory.txt": {
+"size": 114056,
+"mt": 1791980832,
+"md5": "4f15962340d51394d47a60e11cdbb608"
+},
+"audio/CONFIG/BankLkup.dat": {
+"size": 8520,
+"mt": 1791980832,
+"md5": "b45905c794677467644240aa9abc2f60"
+},
+"audio/CONFIG/BankSlot.dat": {
+"size": 216902,
+"mt": 1791980832,
+"md5": "da40c568a349b58c78c2a8faf8da95a9"
+},
+"audio/CONFIG/EventVol.dat": {
+"size": 45402,
+"mt": 1791980832,
+"md5": "d676adc31b1d0a95631451344892ddd2"
+},
+"audio/CONFIG/PakFiles.dat": {
+"size": 468,
+"mt": 1791980832,
+"md5": "db1e657a3baafbb86cd1b715c5282c66"
+},
+"audio/CONFIG/SOUNDINF.DAT": {
+"size": 746760,
+"mt": 1791980832,
+"md5": "a220a41520d4c1e58c211835fbeca840"
+},
+"audio/CONFIG/StrmPaks.dat": {
+"size": 272,
+"mt": 1791980832,
+"md5": "6e65fd943ad6b0bbbc032e1f081ce699"
+},
+"audio/CONFIG/TRKHEAD.DAT": {
+"size": 15506696,
+"mt": 1791980832,
+"md5": "5f0d3c7295e8d1c7371fab89a6989723"
+},
+"audio/CONFIG/TrakLkup.dat": {
+"size": 23064,
+"mt": 1791980832,
+"md5": "528e75d663b8bae072a01351081a2145"
+},
+"audio/SFX/FEET.osw": {
+"size": 138118,
+"mt": 1791980832,
+"md5": "e96c0b200c3437c5088ff2bd5a9054d6"
+},
+"audio/SFX/FEET.osw.idx": {
+"size": 1220,
+"mt": 1791980832,
+"md5": "11635b4690838fae6ab1082d30a93890"
+},
+"audio/SFX/GENRL.osw": {
+"size": 9362373,
+"mt": 1791980832,
+"md5": "49f36f13260ed27c40fbce4175706cd2"
+},
+"audio/SFX/GENRL.osw.idx": {
+"size": 20868,
+"mt": 1791980832,
+"md5": "1430abad9623bcc316638c75017c1261"
+},
+"audio/SFX/PAIN_A.osw": {
+"size": 3247335,
+"mt": 1791980832,
+"md5": "6e2ec42799b7e6f366437e5cb4d04911"
+},
+"audio/SFX/PAIN_A.osw.idx": {
+"size": 12836,
+"mt": 1791980832,
+"md5": "aeb673a62ca2b30244a049429b1e1265"
+},
+"audio/STREAMS/AA.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/AA.osw.idx": {
+"size": 1522,
+"mt": 1791980832,
+"md5": "7d3d3960131764d70b1b268ee5d332f7"
+},
+"audio/STREAMS/ADVERTS.osw": {
+"size": 3516982,
+"mt": 1791980832,
+"md5": "4ded1e1f6d9b3917617d495f5d063a13"
+},
+"audio/STREAMS/ADVERTS.osw.idx": {
+"size": 1591,
+"mt": 1791980832,
+"md5": "22e59aad9134b004dc4451ac31e123aa"
+},
+"audio/STREAMS/AMBIENCE.osw": {
+"size": 22719112,
+"mt": 1791980832,
+"md5": "83a80c9403ceffd1d9c225c300caec32"
+},
+"audio/STREAMS/AMBIENCE.osw.idx": {
+"size": 924,
+"mt": 1791980832,
+"md5": "f4713422eb3a13f8050fe963397cd454"
+},
+"audio/STREAMS/BEATS.osw": {
+"size": 9415375,
+"mt": 1791980832,
+"md5": "d04cd2d6190f1c39c1251a66a5651f14"
+},
+"audio/STREAMS/BEATS.osw.idx": {
+"size": 234,
+"mt": 1791980832,
+"md5": "25ad0a62f7324958d14ebdd63032bcf0"
+},
+"audio/STREAMS/CH.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/CH.osw.idx": {
+"size": 2994,
+"mt": 1791980832,
+"md5": "c73c042a6522b5a7d35d8e22333f0adb"
+},
+"audio/STREAMS/CO.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/CO.osw.idx": {
+"size": 3569,
+"mt": 1791980832,
+"md5": "d876639142072405c9e3d74b80fc11bf"
+},
+"audio/STREAMS/CR.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/CR.osw.idx": {
+"size": 3592,
+"mt": 1791980832,
+"md5": "4c6821f5770d5c5049b121c4eaca06e0"
+},
+"audio/STREAMS/CUTSCENE.osw": {
+"size": 301175,
+"mt": 1791980832,
+"md5": "f0ba6914f2152e2eb98b0f18e6e6a40a"
+},
+"audio/STREAMS/CUTSCENE.osw.idx": {
+"size": 3247,
+"mt": 1791980832,
+"md5": "1b2f53c874854fee1e8ad76ca1acc219"
+},
+"audio/STREAMS/DS.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/DS.osw.idx": {
+"size": 4121,
+"mt": 1791980832,
+"md5": "545a2017199e4559c5c21718a9a9d2ac"
+},
+"audio/STREAMS/HC.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/HC.osw.idx": {
+"size": 2649,
+"mt": 1791980832,
+"md5": "c512967bedfc33bc90fcf430af54f356"
+},
+"audio/STREAMS/MH.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/MH.osw.idx": {
+"size": 3500,
+"mt": 1791980832,
+"md5": "018ad9b23fa611d6cc631f903fa95fbc"
+},
+"audio/STREAMS/MR.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/MR.osw.idx": {
+"size": 3385,
+"mt": 1791980832,
+"md5": "ca335e98341486d7423dad1705b6c3fa"
+},
+"audio/STREAMS/NJ.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/NJ.osw.idx": {
+"size": 2994,
+"mt": 1791980832,
+"md5": "8d9c6d51e2b6187a87d2151108333483"
+},
+"audio/STREAMS/RE.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/RE.osw.idx": {
+"size": 3707,
+"mt": 1791980832,
+"md5": "aa9bc67d96f8b9440ac643df8abbf87f"
+},
+"audio/STREAMS/RG.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/RG.osw.idx": {
+"size": 3914,
+"mt": 1791980832,
+"md5": "e801c09baf64a2944a0826933df3c271"
+},
+"audio/STREAMS/TK.osw": {
+"size": 15462,
+"mt": 1791980832,
+"md5": "fc1179502b4313a197e05bc42e6005ba"
+},
+"audio/STREAMS/TK.osw.idx": {
+"size": 2327,
+"mt": 1791980832,
+"md5": "b10ccdf74ab7e576e082ac6f13a893a1"
+},
+"fonts/arial_bold.ttf": {
+"size": 199764,
+"mt": 1791980834,
+"md5": "9fef18feef9dbcbfb4fa2bc43b88eeda"
+},
+"models/coll/peds.col": {
+"size": 21477,
+"mt": 1791980834,
+"md5": "74288cbdd843c3cfb77b036a5614ae9d"
+},
+"models/coll/vehicles.col": {
+"size": 1096,
+"mt": 1791980834,
+"md5": "c84c1a1b67d5fad3df75dd8d45fc576b"
+},
+"models/coll/weapons.col": {
+"size": 560,
+"mt": 1791980834,
+"md5": "510e74e32b323eee54dd7a243b073808"
+},
+"models/effects.fxp": {
+"size": 616708,
+"mt": 1791980834,
+"md5": "94babd9e6ec73bf5d9926e041e708c4f"
+},
+"stream.ini": {
+"size": 197,
+"mt": 1791980834,
+"md5": "05b6fdb1ff98a4ec75a58536a0c47b5e"
 }
 }

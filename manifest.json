@@ -1,5 +1,5 @@
 {
- "apk_version": 38,
+ "apk_version": 40,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -1684,6 +1684,18 @@
    ]
   },
   {
+   "path": "km/GTASAMP10.b",
+   "size": 195000,
+   "md5": "6345101941642a731732021dd82f5706",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/GTASAMP10.b"
+  },
+  {
+   "path": "km/GTASAsf1.b",
+   "size": 195000,
+   "md5": "1c1cb684ab921fe3ad67fc611a9c7f7f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/GTASAsf1.b"
+  },
+  {
    "path": "km/SAMP/gta.dat",
    "size": 1471,
    "md5": "09560fdce341e8b5f69629b97d986972",
@@ -1718,6 +1730,372 @@
    "size": 20950,
    "md5": "fed1f330384b1eadea3eb862a7d5c63f",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/SAMP__vehicles.ide"
+  },
+  {
+   "path": "km/Text/american.gxt",
+   "size": 1339424,
+   "md5": "0d98f4ac301aa85ffc364776016fbd3f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__american.gxt"
+  },
+  {
+   "path": "km/Text/french.gxt",
+   "size": 1459044,
+   "md5": "d445b811f6233ee5d04ba31bc71bc4a8",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__french.gxt"
+  },
+  {
+   "path": "km/Text/german.gxt",
+   "size": 1497182,
+   "md5": "ece9907e0a74edba2dfb922865c0bf09",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__german.gxt"
+  },
+  {
+   "path": "km/Text/italian.gxt",
+   "size": 1371048,
+   "md5": "518b5dad605141ab4715e18223c957cf",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__italian.gxt"
+  },
+  {
+   "path": "km/Text/japanese.gxt",
+   "size": 643202,
+   "md5": "93518ed97249791d9dd9012b8f893a3a",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__japanese.gxt"
+  },
+  {
+   "path": "km/Text/russian.gxt",
+   "size": 1421038,
+   "md5": "68f489672ba229e40b4d505d4db2015f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__russian.gxt"
+  },
+  {
+   "path": "km/Text/spanish.gxt",
+   "size": 1386744,
+   "md5": "53e71646162d02d56cc28ecb9cf312c2",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Text__spanish.gxt"
+  },
+  {
+   "path": "km/Textures/fonts/JapaneseFont.met",
+   "size": 45171,
+   "md5": "a69f4a58899fb9b4696da22a4c4aa14b",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/Textures__fonts__JapaneseFont.met"
+  },
+  {
+   "path": "km/Textures/fonts/JapaneseFont.png",
+   "size": 187721,
+   "md5": "0fe532b0f792714fe5ea965d2ace9482",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/Textures__fonts__JapaneseFont.png"
+  },
+  {
+   "path": "km/Textures/fonts/RussianFont.met",
+   "size": 4279,
+   "md5": "ea75831cddeee4b4a9ed092e6407432c",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/Textures__fonts__RussianFont.met"
+  },
+  {
+   "path": "km/Textures/fonts/RussianFont.png",
+   "size": 38743,
+   "md5": "190da2434f90e7b96cea7cfc80ae03b0",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/Textures__fonts__RussianFont.png"
+  },
+  {
+   "path": "km/anim/anim.img",
+   "size": 10942464,
+   "md5": "3359ba8cb820299161199ee7ef3f1c02",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/anim__anim.img"
+  },
+  {
+   "path": "km/anim/cuts.img",
+   "size": 16029696,
+   "md5": "47ed437d63709bc3b194a5781fd1b9d6",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/anim__cuts.img"
+  },
+  {
+   "path": "km/anim/ped.ifp",
+   "size": 1433248,
+   "md5": "4736b2c90b00981255f9507308ee9174",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/anim__ped.ifp"
+  },
+  {
+   "path": "km/audio/CONFIG/AudioEventHistory.txt",
+   "size": 114056,
+   "md5": "4f15962340d51394d47a60e11cdbb608",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__AudioEventHistory.txt"
+  },
+  {
+   "path": "km/audio/CONFIG/BankLkup.dat",
+   "size": 8520,
+   "md5": "b45905c794677467644240aa9abc2f60",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__BankLkup.dat"
+  },
+  {
+   "path": "km/audio/CONFIG/BankSlot.dat",
+   "size": 216902,
+   "md5": "da40c568a349b58c78c2a8faf8da95a9",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__BankSlot.dat"
+  },
+  {
+   "path": "km/audio/CONFIG/EventVol.dat",
+   "size": 45402,
+   "md5": "d676adc31b1d0a95631451344892ddd2",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__EventVol.dat"
+  },
+  {
+   "path": "km/audio/CONFIG/PakFiles.dat",
+   "size": 468,
+   "md5": "db1e657a3baafbb86cd1b715c5282c66",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__PakFiles.dat"
+  },
+  {
+   "path": "km/audio/CONFIG/SOUNDINF.DAT",
+   "size": 746760,
+   "md5": "a220a41520d4c1e58c211835fbeca840",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__SOUNDINF.DAT"
+  },
+  {
+   "path": "km/audio/CONFIG/StrmPaks.dat",
+   "size": 272,
+   "md5": "6e65fd943ad6b0bbbc032e1f081ce699",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__StrmPaks.dat"
+  },
+  {
+   "path": "km/audio/CONFIG/TRKHEAD.DAT",
+   "size": 15506696,
+   "md5": "5f0d3c7295e8d1c7371fab89a6989723",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__TRKHEAD.DAT"
+  },
+  {
+   "path": "km/audio/CONFIG/TrakLkup.dat",
+   "size": 23064,
+   "md5": "528e75d663b8bae072a01351081a2145",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__CONFIG__TrakLkup.dat"
+  },
+  {
+   "path": "km/audio/SFX/FEET.osw",
+   "size": 138118,
+   "md5": "e96c0b200c3437c5088ff2bd5a9054d6",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__SFX__FEET.osw"
+  },
+  {
+   "path": "km/audio/SFX/FEET.osw.idx",
+   "size": 1220,
+   "md5": "11635b4690838fae6ab1082d30a93890",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__SFX__FEET.osw.idx"
+  },
+  {
+   "path": "km/audio/SFX/GENRL.osw",
+   "size": 9362373,
+   "md5": "49f36f13260ed27c40fbce4175706cd2",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__SFX__GENRL.osw"
+  },
+  {
+   "path": "km/audio/SFX/GENRL.osw.idx",
+   "size": 20868,
+   "md5": "1430abad9623bcc316638c75017c1261",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__SFX__GENRL.osw.idx"
+  },
+  {
+   "path": "km/audio/SFX/PAIN_A.osw",
+   "size": 3247335,
+   "md5": "6e2ec42799b7e6f366437e5cb4d04911",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__SFX__PAIN_A.osw"
+  },
+  {
+   "path": "km/audio/SFX/PAIN_A.osw.idx",
+   "size": 12836,
+   "md5": "aeb673a62ca2b30244a049429b1e1265",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__SFX__PAIN_A.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/AA.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__AA.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/AA.osw.idx",
+   "size": 1522,
+   "md5": "7d3d3960131764d70b1b268ee5d332f7",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__AA.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/ADVERTS.osw",
+   "size": 3516982,
+   "md5": "4ded1e1f6d9b3917617d495f5d063a13",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__ADVERTS.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/ADVERTS.osw.idx",
+   "size": 1591,
+   "md5": "22e59aad9134b004dc4451ac31e123aa",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__ADVERTS.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/AMBIENCE.osw",
+   "size": 22719112,
+   "md5": "83a80c9403ceffd1d9c225c300caec32",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__AMBIENCE.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/AMBIENCE.osw.idx",
+   "size": 924,
+   "md5": "f4713422eb3a13f8050fe963397cd454",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__AMBIENCE.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/BEATS.osw",
+   "size": 9415375,
+   "md5": "d04cd2d6190f1c39c1251a66a5651f14",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__BEATS.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/BEATS.osw.idx",
+   "size": 234,
+   "md5": "25ad0a62f7324958d14ebdd63032bcf0",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__BEATS.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/CH.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CH.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/CH.osw.idx",
+   "size": 2994,
+   "md5": "c73c042a6522b5a7d35d8e22333f0adb",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CH.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/CO.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CO.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/CO.osw.idx",
+   "size": 3569,
+   "md5": "d876639142072405c9e3d74b80fc11bf",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CO.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/CR.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CR.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/CR.osw.idx",
+   "size": 3592,
+   "md5": "4c6821f5770d5c5049b121c4eaca06e0",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CR.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/CUTSCENE.osw",
+   "size": 301175,
+   "md5": "f0ba6914f2152e2eb98b0f18e6e6a40a",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CUTSCENE.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/CUTSCENE.osw.idx",
+   "size": 3247,
+   "md5": "1b2f53c874854fee1e8ad76ca1acc219",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__CUTSCENE.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/DS.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__DS.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/DS.osw.idx",
+   "size": 4121,
+   "md5": "545a2017199e4559c5c21718a9a9d2ac",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__DS.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/HC.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__HC.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/HC.osw.idx",
+   "size": 2649,
+   "md5": "c512967bedfc33bc90fcf430af54f356",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__HC.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/MH.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__MH.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/MH.osw.idx",
+   "size": 3500,
+   "md5": "018ad9b23fa611d6cc631f903fa95fbc",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__MH.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/MR.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__MR.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/MR.osw.idx",
+   "size": 3385,
+   "md5": "ca335e98341486d7423dad1705b6c3fa",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__MR.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/NJ.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__NJ.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/NJ.osw.idx",
+   "size": 2994,
+   "md5": "8d9c6d51e2b6187a87d2151108333483",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__NJ.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/RE.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__RE.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/RE.osw.idx",
+   "size": 3707,
+   "md5": "aa9bc67d96f8b9440ac643df8abbf87f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__RE.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/RG.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__RG.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/RG.osw.idx",
+   "size": 3914,
+   "md5": "e801c09baf64a2944a0826933df3c271",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__RG.osw.idx"
+  },
+  {
+   "path": "km/audio/STREAMS/TK.osw",
+   "size": 15462,
+   "md5": "fc1179502b4313a197e05bc42e6005ba",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__TK.osw"
+  },
+  {
+   "path": "km/audio/STREAMS/TK.osw.idx",
+   "size": 2327,
+   "md5": "b10ccdf74ab7e576e082ac6f13a893a1",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/audio__STREAMS__TK.osw.idx"
   },
   {
    "path": "km/data/colorcycle.dat",
@@ -4036,6 +4414,36 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__water2.dat"
   },
   {
+   "path": "km/fonts/arial_bold.ttf",
+   "size": 199764,
+   "md5": "9fef18feef9dbcbfb4fa2bc43b88eeda",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/fonts__arial_bold.ttf"
+  },
+  {
+   "path": "km/models/coll/peds.col",
+   "size": 21477,
+   "md5": "74288cbdd843c3cfb77b036a5614ae9d",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/models__coll__peds.col"
+  },
+  {
+   "path": "km/models/coll/vehicles.col",
+   "size": 1096,
+   "md5": "c84c1a1b67d5fad3df75dd8d45fc576b",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/models__coll__vehicles.col"
+  },
+  {
+   "path": "km/models/coll/weapons.col",
+   "size": 560,
+   "md5": "510e74e32b323eee54dd7a243b073808",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/models__coll__weapons.col"
+  },
+  {
+   "path": "km/models/effects.fxp",
+   "size": 616708,
+   "md5": "94babd9e6ec73bf5d9926e041e708c4f",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/models__effects.fxp"
+  },
+  {
    "path": "km/music/01.mp3",
    "size": 5394852,
    "md5": "4d20a58f42f5c2675844ce6b49dfcdf5",
@@ -5156,6 +5564,12 @@
    "size": 12426,
    "md5": "311343cd0b342c986b5efc336fedad30",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/sounds__sig_tock.wav"
+  },
+  {
+   "path": "km/stream.ini",
+   "size": 197,
+   "md5": "05b6fdb1ff98a4ec75a58536a0c47b5e",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/stream.ini"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.tmb",
