@@ -5598,5 +5598,600 @@
 "size": 392,
 "mt": 1791980834,
 "md5": "3b9a4be45664e3724cc68ab414850b3c"
+},
+"SAMP/SAMP.ide": {
+"size": 89349,
+"mt": 1791980834,
+"md5": "5a36a5df8dfcab05900c38d75acaf594"
+},
+"SAMP/WEAPON.dat": {
+"size": 11585,
+"mt": 1791980834,
+"md5": "0a9bb49003680364f9f9768e9bcea982"
+},
+"SAMP/fonts/arial.ttf": {
+"size": 199764,
+"mt": 1791980834,
+"md5": "9fef18feef9dbcbfb4fa2bc43b88eeda"
+},
+"SAMP/fonts/arial_bold.ttf": {
+"size": 199764,
+"mt": 1791982062,
+"md5": "9fef18feef9dbcbfb4fa2bc43b88eeda"
+},
+"SAMP/fonts/sampaux3.ttf": {
+"size": 11544,
+"mt": 1791980834,
+"md5": "6a03a32076e76f6c1720cad6c6ea6915"
+},
+"SAMP/ped.ifp": {
+"size": 1433248,
+"mt": 1791980834,
+"md5": "4736b2c90b00981255f9507308ee9174"
+},
+"SAMP/vehicleAudioSettings.cfg": {
+"size": 24771,
+"mt": 1791980834,
+"md5": "6de68011de9cafd19f8a133cb34a58a0"
+},
+"SAMP/version.txt": {
+"size": 5,
+"mt": 1791980834,
+"md5": "25e64aa754c310d45c1e084d574c1bb0"
+},
+"data/360Default1280x720.cfg": {
+"size": 10898,
+"mt": 1791980832,
+"md5": "561609b81469d3ac5dd7325ff388b8de"
+},
+"data/360Default960x720.cfg": {
+"size": 10888,
+"mt": 1791980832,
+"md5": "cbd566273bb949526dd68f9cd6a34ad4"
+},
+"data/Decision/Allowed/Cop.ped": {
+"size": 4908,
+"mt": 1791980832,
+"md5": "2b2456482e8719e8c64877070fecee7f"
+},
+"data/Decision/Allowed/Fireman.ped": {
+"size": 4435,
+"mt": 1791980832,
+"md5": "99ef637f82455921c9572fede370e33b"
+},
+"data/Decision/Allowed/GangMbr.ped": {
+"size": 6194,
+"mt": 1791980832,
+"md5": "cd6e25e2a07fa5e1cc2f0d952c51f3af"
+},
+"data/Decision/Allowed/Indoors.ped": {
+"size": 2809,
+"mt": 1791980832,
+"md5": "5071731f4fd49d79b0562c7dec9a673b"
+},
+"data/Decision/Allowed/MISSION.grp": {
+"size": 2758,
+"mt": 1791980832,
+"md5": "837dd1e06da29bf5d7210a9074164cf2"
+},
+"data/Decision/Allowed/RANDOM.grp": {
+"size": 4623,
+"mt": 1791980832,
+"md5": "cda22c3bed5dd3742542084461082d24"
+},
+"data/Decision/Allowed/RANDOM.ped": {
+"size": 4142,
+"mt": 1791980832,
+"md5": "d6ed517e1e6809c6ad0e9e2c163f410e"
+},
+"data/Decision/Allowed/RANDOM2.grp": {
+"size": 4623,
+"mt": 1791980832,
+"md5": "25cfafb3b7da432277bfa1291df4d58d"
+},
+"data/Decision/Allowed/R_Norm.ped": {
+"size": 6450,
+"mt": 1791980832,
+"md5": "75d670db732344ec3f90e7db71b1e3a6"
+},
+"data/Decision/Allowed/R_Tough.ped": {
+"size": 6378,
+"mt": 1791980832,
+"md5": "b3e4ca143c1bbcbf99ebf70ef95e7343"
+},
+"data/Decision/Allowed/R_Weak.ped": {
+"size": 6289,
+"mt": 1791980832,
+"md5": "3cddd65754ad3c6ee8aec71b8a69b6c3"
+},
+"data/Decision/Allowed/m_empty.ped": {
+"size": 982,
+"mt": 1791980832,
+"md5": "149d0c778cab34b995d3958f44eeb18b"
+},
+"data/Decision/Allowed/m_norm.ped": {
+"size": 4142,
+"mt": 1791980832,
+"md5": "d6ed517e1e6809c6ad0e9e2c163f410e"
+},
+"data/Decision/Allowed/m_plyr.ped": {
+"size": 2000,
+"mt": 1791980832,
+"md5": "50ec4c398f482bbe9428e1011b4bc0b2"
+},
+"data/Decision/Allowed/m_steal.ped": {
+"size": 3663,
+"mt": 1791980832,
+"md5": "ea0e40c00071a4a9446c19b12bf5a035"
+},
+"data/Decision/Allowed/m_tough.ped": {
+"size": 3980,
+"mt": 1791980832,
+"md5": "be9ea5daacc227b8383b9c84a5b3fa9b"
+},
+"data/Decision/Allowed/m_weak.ped": {
+"size": 4062,
+"mt": 1791980832,
+"md5": "03dc3abafa80abec285adc0bddee6777"
+},
+"data/Decision/PedEvent.txt": {
+"size": 1298,
+"mt": 1791980832,
+"md5": "e4fa5caa1558f2945294a3652e6f0cde"
+},
+"data/ShopUVs.dat": {
+"size": 30509,
+"mt": 1791980834,
+"md5": "f40d7ce24ae1ceabb6fcb06646de31d1"
+},
+"data/TouchDefaultPhone3x2.cfg": {
+"size": 10912,
+"mt": 1791980834,
+"md5": "b9de3eedeeceb8a95052f9935374cd33"
+},
+"data/TouchDefaultPhoneWidescreen.cfg": {
+"size": 10924,
+"mt": 1791980834,
+"md5": "681f05aa17c658a568752a765e058150"
+},
+"data/TouchDefaultTablet4x3.cfg": {
+"size": 10926,
+"mt": 1791980834,
+"md5": "37bdbe57243b101bfd2af3177a37ca9c"
+},
+"data/TouchDefaultTabletWidescreen.cfg": {
+"size": 10923,
+"mt": 1791980834,
+"md5": "f15920204887f42b505458c5bfd85fef"
+},
+"data/animgrp.dat": {
+"size": 3096,
+"mt": 1791980832,
+"md5": "6a484b0b2356c524207d939487f1bff1"
+},
+"data/ar_stats.dat": {
+"size": 3593,
+"mt": 1791980832,
+"md5": "a98936b0f3523f23cad2eacc0eaf7a9b"
+},
+"data/carcols.dat": {
+"size": 15361,
+"mt": 1791980832,
+"md5": "2b33843e79bd113873a5d0fb02157749"
+},
+"data/cargrp.dat": {
+"size": 3909,
+"mt": 1791980832,
+"md5": "7ab78f1ac51aa79cf2b65631dc4c011f"
+},
+"data/carmods.dat": {
+"size": 8763,
+"mt": 1791980832,
+"md5": "142ea68e6c8214dc83fd4cab5365b678"
+},
+"data/clothes.dat": {
+"size": 5317,
+"mt": 1791980832,
+"md5": "8762637e580eb936111859ffa29bddb4"
+},
+"data/default.dat": {
+"size": 577,
+"mt": 1791980832,
+"md5": "8e133355396761bd5cd16bf873154b30"
+},
+"data/default.ide": {
+"size": 4679,
+"mt": 1791980832,
+"md5": "5b6d75bae827e2d88f24f2be66a037bb"
+},
+"data/fonts.dat": {
+"size": 3574,
+"mt": 1791980832,
+"md5": "21bd57063f587cb96eb96e65a9c9a7bb"
+},
+"data/furnitur.dat": {
+"size": 16480,
+"mt": 1791980832,
+"md5": "3199fc8b81a4c5334a497508fe408afd"
+},
+"data/gridref.dat": {
+"size": 1498,
+"mt": 1791980832,
+"md5": "795a9c013ee683e286768e06e4a5e2d7"
+},
+"data/melee.dat": {
+"size": 6306,
+"mt": 1791980834,
+"md5": "b2f05657980e4a693f8ff5eadcbad8f8"
+},
+"data/object.dat": {
+"size": 126118,
+"mt": 1791980834,
+"md5": "46a5e7dff90078842e24d9de5e92cc3e"
+},
+"data/ped.dat": {
+"size": 1276,
+"mt": 1791980834,
+"md5": "67d960dde13228d4818e0f144adafe4e"
+},
+"data/pedgrp.dat": {
+"size": 5792,
+"mt": 1791980834,
+"md5": "fa1731066423ba0c584e757eda946f15"
+},
+"data/pedstats.dat": {
+"size": 3604,
+"mt": 1791980834,
+"md5": "d722c90c92f3ad5c1b531596769f61cd"
+},
+"data/plants.dat": {
+"size": 9887,
+"mt": 1791980834,
+"md5": "a2713338dbbd55898a4195e4464c6b06"
+},
+"data/popcycle.dat": {
+"size": 127108,
+"mt": 1791980834,
+"md5": "a43f90361d1034c819a602171d8d66cb"
+},
+"data/procobj.dat": {
+"size": 10019,
+"mt": 1791980834,
+"md5": "7229fa03d65f135bd569c3692d67c4b3"
+},
+"data/script/mainV1.scm": {
+"size": 3169778,
+"mt": 1791980834,
+"md5": "6f8801c5fb1949bf53b8f38bf6a4ab71"
+},
+"data/script/scriptv1.img": {
+"size": 561152,
+"mt": 1791980834,
+"md5": "fb7f9c3cf85683d9634c6c69ad0482f3"
+},
+"data/shopping.dat": {
+"size": 46875,
+"mt": 1791980834,
+"md5": "c1086eb6c0bfa36845f2026b68519f14"
+},
+"data/statdisp.dat": {
+"size": 7292,
+"mt": 1791980834,
+"md5": "3a6cabab2094de3e0b3810a40e24194c"
+},
+"data/surface.dat": {
+"size": 576,
+"mt": 1791980834,
+"md5": "9eb4e4e474abd5da2f3961a5ef549f9e"
+},
+"data/surfaud.dat": {
+"size": 6530,
+"mt": 1791980834,
+"md5": "c32c586e8ba35742e356e6525619f7c3"
+},
+"data/surfinfo.dat": {
+"size": 28106,
+"mt": 1791980834,
+"md5": "605dd0beabccc797ce94a51a3e4a09eb"
+},
+"data/timecyc.dat": {
+"size": 40037,
+"mt": 1791980834,
+"md5": "d66a121bc8f17a5b69e34b841744956c"
+},
+"data/txdcut.ide": {
+"size": 478,
+"mt": 1791980834,
+"md5": "e3c231039048a30680b8f13fb51cc4ac"
+},
+"data/weapon.dat": {
+"size": 11602,
+"mt": 1791980834,
+"md5": "28f518b60b7b77bbe6d7cbe3fad594c2"
+},
+"texdb/SAMP.ide": {
+"size": 87794,
+"mt": 1791980848,
+"md5": "3ae9d1484765a7dae12639b4ac16e815"
+},
+"texdb/SAMP.ipl": {
+"size": 2291,
+"mt": 1791980848,
+"md5": "f5fc70efa49b43fc48fc71e3c680b50e"
+},
+"texdb/SAMPCOL.img": {
+"size": 4253696,
+"mt": 1791980848,
+"md5": "1830ffedfc451c75aef2dea949d02cb5"
+},
+"texdb/menu/menu.dxt.dat": {
+"size": 4776122,
+"mt": 1791980846,
+"md5": "31ac509cb83c62d92bc204350529b185"
+},
+"texdb/menu/menu.dxt.tmb": {
+"size": 992,
+"mt": 1791980846,
+"md5": "e3f4b2654912999c934a30433655cb3c"
+},
+"texdb/menu/menu.dxt.toc": {
+"size": 176,
+"mt": 1791980846,
+"md5": "a1b79a235518bc63071dba827a6ddb1d"
+},
+"texdb/menu/menu.etc.dat": {
+"size": 6061616,
+"mt": 1791980846,
+"md5": "8b8994c71572a1510f8b9199a617efe3"
+},
+"texdb/menu/menu.etc.tmb": {
+"size": 992,
+"mt": 1791980846,
+"md5": "e3f4b2654912999c934a30433655cb3c"
+},
+"texdb/menu/menu.etc.toc": {
+"size": 176,
+"mt": 1791980846,
+"md5": "9a4c4fa515bdfc21c2080506b4d31063"
+},
+"texdb/menu/menu.pvr.dat": {
+"size": 6061616,
+"mt": 1791980846,
+"md5": "8b8994c71572a1510f8b9199a617efe3"
+},
+"texdb/menu/menu.pvr.tmb": {
+"size": 992,
+"mt": 1791980846,
+"md5": "e3f4b2654912999c934a30433655cb3c"
+},
+"texdb/menu/menu.pvr.toc": {
+"size": 176,
+"mt": 1791980846,
+"md5": "9a4c4fa515bdfc21c2080506b4d31063"
+},
+"texdb/menu/menu.txt": {
+"size": 3147,
+"mt": 1791980846,
+"md5": "a5917ec3ffab4a6bbc664bb34ce012bc"
+},
+"texdb/menu/menu.unc.tmb": {
+"size": 992,
+"mt": 1791980846,
+"md5": "e3f4b2654912999c934a30433655cb3c"
+},
+"texdb/mobile/mobile.dxt.dat": {
+"size": 7267946,
+"mt": 1791980846,
+"md5": "dc035b96bbf5e3cc89a5fcbed75150ee"
+},
+"texdb/mobile/mobile.dxt.tmb": {
+"size": 3940,
+"mt": 1791980846,
+"md5": "efcc677bfb33570deac2858c896594c6"
+},
+"texdb/mobile/mobile.dxt.toc": {
+"size": 792,
+"mt": 1791980846,
+"md5": "69b1bae3daef2ff057cc0dcce1594885"
+},
+"texdb/mobile/mobile.etc.dat": {
+"size": 8712314,
+"mt": 1791980846,
+"md5": "7a1d3918cac2a8e08cc29dafa70bd1ea"
+},
+"texdb/mobile/mobile.etc.tmb": {
+"size": 3940,
+"mt": 1791980846,
+"md5": "efcc677bfb33570deac2858c896594c6"
+},
+"texdb/mobile/mobile.etc.toc": {
+"size": 792,
+"mt": 1791980846,
+"md5": "6e6f1e67984e72ed11c3d18efb897268"
+},
+"texdb/mobile/mobile.pvr.dat": {
+"size": 8712314,
+"mt": 1791980846,
+"md5": "4fb465d4eb5461520761b227840692d3"
+},
+"texdb/mobile/mobile.pvr.tmb": {
+"size": 3940,
+"mt": 1791980846,
+"md5": "efcc677bfb33570deac2858c896594c6"
+},
+"texdb/mobile/mobile.pvr.toc": {
+"size": 792,
+"mt": 1791980846,
+"md5": "6e6f1e67984e72ed11c3d18efb897268"
+},
+"texdb/mobile/mobile.txt": {
+"size": 14502,
+"mt": 1791980846,
+"md5": "4f5b8440ab51c4b62b8a8734f7018656"
+},
+"texdb/mobile/mobile.unc.tmb": {
+"size": 3940,
+"mt": 1791980846,
+"md5": "efcc677bfb33570deac2858c896594c6"
+},
+"texdb/player.img": {
+"size": 16412672,
+"mt": 1791980846,
+"md5": "3eeff76e39c62d2874abbe8656dbd457"
+},
+"texdb/player/player.pvr.dat": {
+"size": 6569414,
+"mt": 1791980846,
+"md5": "a1d04da0effd7228b88b2cc2a44af38c"
+},
+"texdb/player/player.pvr.tmb": {
+"size": 6940,
+"mt": 1791980846,
+"md5": "05c457dd35da898f875659a3db8f52d6"
+},
+"texdb/player/player.pvr.toc": {
+"size": 1580,
+"mt": 1791980846,
+"md5": "ff93c115e12f79407b69fd422a40908f"
+},
+"texdb/player/player.txt": {
+"size": 27810,
+"mt": 1791980846,
+"md5": "53712a52f9a98a3224207a9b67788b83"
+},
+"texdb/playerhi/playerhi.pvr.dat": {
+"size": 27658902,
+"mt": 1791980846,
+"md5": "0dc839aa289317ea221f8fb8f896f46c"
+},
+"texdb/playerhi/playerhi.pvr.tmb": {
+"size": 6940,
+"mt": 1791980846,
+"md5": "4cd33e8a5ca03a6ea5ecc348ebaa52f3"
+},
+"texdb/playerhi/playerhi.pvr.toc": {
+"size": 1580,
+"mt": 1791980846,
+"md5": "36e2114e4d8001e615527313513b4341"
+},
+"texdb/playerhi/playerhi.txt": {
+"size": 28087,
+"mt": 1791980846,
+"md5": "a0ca027e517b7352eba72c420b5357b4"
+},
+"texdb/samp/samp.etc.dat": {
+"size": 33150952,
+"mt": 1791980848,
+"md5": "ac32e169e99a2501351aa70aaf60986e"
+},
+"texdb/samp/samp.etc.tmb": {
+"size": 21168,
+"mt": 1791980848,
+"md5": "f90a215a047563a0061f6f01e0e5966d"
+},
+"texdb/samp/samp.etc.toc": {
+"size": 6156,
+"mt": 1791980848,
+"md5": "dc1f54239b2ca11d17469a75cfd6cd28"
+},
+"texdb/samp/samp.pvr.dat": {
+"size": 13764378,
+"mt": 1791980848,
+"md5": "782cf8670ed3258079bbf9aae466db89"
+},
+"texdb/samp/samp.pvr.tmb": {
+"size": 21168,
+"mt": 1791980848,
+"md5": "f90a215a047563a0061f6f01e0e5966d"
+},
+"texdb/samp/samp.pvr.toc": {
+"size": 6156,
+"mt": 1791980848,
+"md5": "fd0af2f404ec599abf65054195127dd2"
+},
+"texdb/samp/samp.unc.dat": {
+"size": 33150952,
+"mt": 1791980848,
+"md5": "545f272663b036d106711e3bc848624e"
+},
+"texdb/samp/samp.unc.tmb": {
+"size": 21168,
+"mt": 1791980848,
+"md5": "f90a215a047563a0061f6f01e0e5966d"
+},
+"texdb/samp/samp.unc.toc": {
+"size": 6156,
+"mt": 1791980848,
+"md5": "dc1f54239b2ca11d17469a75cfd6cd28"
+},
+"texdb/txd/txd.360.dat": {
+"size": 7625578,
+"mt": 1791980848,
+"md5": "0c1f471d59fd6a598de33720fcb3ca57"
+},
+"texdb/txd/txd.360.tmb": {
+"size": 31028,
+"mt": 1791980848,
+"md5": "6b08237e348ca8c6b5e7452251dfd1f4"
+},
+"texdb/txd/txd.360.toc": {
+"size": 2376,
+"mt": 1791980848,
+"md5": "a45a554f2cfa0e5d6c9da0d5bb2b66b5"
+},
+"texdb/txd/txd.dxt.dat": {
+"size": 16518030,
+"mt": 1791980850,
+"md5": "55fb263a25e4cd59b6371962c164fc35"
+},
+"texdb/txd/txd.dxt.tmb": {
+"size": 43520,
+"mt": 1791980850,
+"md5": "66529e02965bdc675ac466c9a201c2fb"
+},
+"texdb/txd/txd.dxt.toc": {
+"size": 2708,
+"mt": 1791980850,
+"md5": "afd35b8c37de3a78dee1a96e8839c7b0"
+},
+"texdb/txd/txd.etc.dat": {
+"size": 18315190,
+"mt": 1791980850,
+"md5": "23f656f8a22214ad69b655db39e31bbe"
+},
+"texdb/txd/txd.etc.tmb": {
+"size": 61824,
+"mt": 1791980850,
+"md5": "a13a130b2bfad5e661789077d350029b"
+},
+"texdb/txd/txd.etc.toc": {
+"size": 2708,
+"mt": 1791980850,
+"md5": "57a6d6d52f95a1a1bf5acd1e97a51995"
+},
+"texdb/txd/txd.pvr.dat": {
+"size": 16610014,
+"mt": 1791980850,
+"md5": "00629b1e06f25a05c7f4be1ead45ff99"
+},
+"texdb/txd/txd.pvr.tmb": {
+"size": 37632,
+"mt": 1791980850,
+"md5": "82ff94fe4e0c07e79faa5434013e2057"
+},
+"texdb/txd/txd.pvr.toc": {
+"size": 2708,
+"mt": 1791980850,
+"md5": "3063dd45e4a43a3b6e5537e9a6f45bd1"
+},
+"texdb/txd/txd.txt": {
+"size": 48081,
+"mt": 1791980850,
+"md5": "a5f0f4ceae86b40f696efdb64080b2f4"
+},
+"texdb/txd/txd.unc.tmb": {
+"size": 83232,
+"mt": 1791980850,
+"md5": "72da09e1c834922ab941a18e70873aab"
 }
 }
