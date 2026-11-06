@@ -4702,6 +4702,12 @@
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/gtasatelem.set"
 },
 {
+"path": "km/kent_nav.bin",
+"size": 125020,
+"md5": "23894b3eb84237f16e6b41e46dd90011",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/kent_nav.bin"
+},
+{
 "path": "km/models/coll/peds.col",
 "size": 21477,
 "md5": "74288cbdd843c3cfb77b036a5614ae9d",
