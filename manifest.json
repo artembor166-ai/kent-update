@@ -1,5 +1,5 @@
 {
- "apk_version": 41,
+ "apk_version": 43,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -118,8 +118,8 @@
   },
   {
    "path": "lib/libsamp.so",
-   "size": 3490064,
-   "md5": "f07f2b728335d45777e774da39d5e81c"
+   "size": 3505368,
+   "md5": "8eccb15775b4c0c8ac4583e0d2037cdc"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
