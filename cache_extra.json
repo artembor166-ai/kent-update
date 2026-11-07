@@ -6094,6 +6094,126 @@
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__90066.kmi"
 },
 {
+"path": "km/sounds/mg_calm_f.mp3",
+"size": 14463,
+"md5": "f5245f26b8300720e6a6ca9836fa8344",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_calm_f.mp3"
+},
+{
+"path": "km/sounds/mg_calm_m.mp3",
+"size": 17807,
+"md5": "d0e55b020123c1660bfb2e5086a4f299",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_calm_m.mp3"
+},
+{
+"path": "km/sounds/mg_closed_f.mp3",
+"size": 14463,
+"md5": "e4decf0be33d9e7b94196123cbfbd9cd",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_closed_f.mp3"
+},
+{
+"path": "km/sounds/mg_closed_m.mp3",
+"size": 18016,
+"md5": "c64412fe22d6710174c675fd894c4374",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_closed_m.mp3"
+},
+{
+"path": "km/sounds/mg_cortege_f.mp3",
+"size": 15299,
+"md5": "334c18a386f707a1919fd6031389d559",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_cortege_f.mp3"
+},
+{
+"path": "km/sounds/mg_cortege_m.mp3",
+"size": 18016,
+"md5": "8f67c2c0115f21cd533518e338620891",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_cortege_m.mp3"
+},
+{
+"path": "km/sounds/mg_crowd_f.mp3",
+"size": 17389,
+"md5": "dc73a77bdd1e7dfbb10d1648f6cb27fe",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_crowd_f.mp3"
+},
+{
+"path": "km/sounds/mg_crowd_m.mp3",
+"size": 21359,
+"md5": "c9b8f276f8304675e2748d9c15232eed",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_crowd_m.mp3"
+},
+{
+"path": "km/sounds/mg_engine_f.mp3",
+"size": 15508,
+"md5": "98f3880fa0e0fcdc2a3dc2f897caa3f4",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_engine_f.mp3"
+},
+{
+"path": "km/sounds/mg_engine_m.mp3",
+"size": 19270,
+"md5": "96a5655209eee18bb88c59be69738ad0",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_engine_m.mp3"
+},
+{
+"path": "km/sounds/mg_fire_f.mp3",
+"size": 27838,
+"md5": "86e566b1b8aac623c5f80c27622bfc4f",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_fire_f.mp3"
+},
+{
+"path": "km/sounds/mg_fire_m.mp3",
+"size": 58894,
+"md5": "d85d948cffc77b95c233fc3afc723742",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_fire_m.mp3"
+},
+{
+"path": "km/sounds/mg_fsb_f.mp3",
+"size": 16553,
+"md5": "3fda21dbb1699d92b1d5817315deeea8",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_fsb_f.mp3"
+},
+{
+"path": "km/sounds/mg_fsb_m.mp3",
+"size": 20315,
+"md5": "4dbfab9ef00e66e90a9051f6e278da5a",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_fsb_m.mp3"
+},
+{
+"path": "km/sounds/mg_out_f.mp3",
+"size": 15090,
+"md5": "19c9ff3970768d870a7afbf89c7dbf25",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_out_f.mp3"
+},
+{
+"path": "km/sounds/mg_out_m.mp3",
+"size": 19897,
+"md5": "d25e5ba14db3965c3ba610ccfbca228e",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_out_m.mp3"
+},
+{
+"path": "km/sounds/mg_pass_f.mp3",
+"size": 14045,
+"md5": "367ca8b50f898be8815578507190f49c",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_pass_f.mp3"
+},
+{
+"path": "km/sounds/mg_pass_m.mp3",
+"size": 24830,
+"md5": "75eaea3306e8a978847ef779f32e308a",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_pass_m.mp3"
+},
+{
+"path": "km/sounds/mg_stop_f.mp3",
+"size": 13418,
+"md5": "034e2863a3d081dc6e730eebe422a3e3",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_stop_f.mp3"
+},
+{
+"path": "km/sounds/mg_stop_m.mp3",
+"size": 25875,
+"md5": "f24956750c77665e00dcdd078c1dc2a1",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_stop_m.mp3"
+},
+{
 "path": "km/sounds/npc_p0_f.ogg",
 "size": 51914,
 "md5": "57e6207c54aaa5e4cc47057d76257f49",
