@@ -1,5 +1,5 @@
 {
- "apk_version": 72,
+ "apk_version": 73,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -124,7 +124,7 @@
   {
    "path": "lib/libsamp.so",
    "size": 3659560,
-   "md5": "33d1e6562625be880e124e40d2f4b4e2"
+   "md5": "3c4d8a8f8e89f4911c1372bce4918727"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
@@ -185,8 +185,8 @@
   },
   {
    "path": "km/texdb/crmptxd/crmptxd.dxt.dat",
-   "size": 56358504,
-   "md5": "c6c7986c67658d36a97b6ac6bcb64c50",
+   "size": 56768504,
+   "md5": "3a06e0ffea2d8cd6b2e50d0b7734ba36",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__crmptxd__crmptxd.dxt.dat.c000",
    "cs": 8388608,
    "chunks": [
@@ -215,8 +215,8 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__crmptxd__crmptxd.dxt.dat.c005"
     ],
     [
-     "889ccf1cde18576cbd419a200037b149",
-     "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__crmptxd__crmptxd.dxt.dat.c006"
+     "98faeb0d5f0708376867fa7f0b0f8efb",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__crmptxd__crmptxd.dxt.dat.c006"
     ]
    ]
   },
@@ -6745,13 +6745,13 @@
   {
    "path": "km/texdb/crmptxd/crmptxd.dxt.toc",
    "size": 2996,
-   "md5": "4ab60a335cf61d9678eb6203523f5698",
+   "md5": "d94da9a7b3111a5b9bfe16f7243ff71e",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__crmptxd__crmptxd.dxt.toc"
   },
   {
    "path": "km/texdb/crmptxd/crmptxd.txt",
-   "size": 52019,
-   "md5": "2d99aa2ee226b6a1c214bbe3516e7a6a",
+   "size": 51144,
+   "md5": "be035bee06c33838c3d2d8ca551a6d69",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__crmptxd__crmptxd.txt"
   },
   {
@@ -8802,9 +8802,9 @@
   },
   {
    "path": "km/texdb/txd/txd.dxt.dat",
-   "size": 16518030,
-   "md5": "55fb263a25e4cd59b6371962c164fc35",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__txd__txd.dxt.dat"
+   "size": 16928030,
+   "md5": "df9531abbef8899c6f128d9c36923e3b",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__txd__txd.dxt.dat"
   },
   {
    "path": "km/texdb/txd/txd.dxt.tmb",
@@ -8815,7 +8815,7 @@
   {
    "path": "km/texdb/txd/txd.dxt.toc",
    "size": 2708,
-   "md5": "afd35b8c37de3a78dee1a96e8839c7b0",
+   "md5": "fa484a66410e76f8867fd8ff0bd5fb92",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__txd__txd.dxt.toc"
   },
   {
@@ -8856,8 +8856,8 @@
   },
   {
    "path": "km/texdb/txd/txd.txt",
-   "size": 48081,
-   "md5": "a5f0f4ceae86b40f696efdb64080b2f4",
+   "size": 47206,
+   "md5": "b78f15e1305ea254a77b1068d6c096b3",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__txd__txd.txt"
   },
   {
