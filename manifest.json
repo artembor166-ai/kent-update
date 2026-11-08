@@ -1,5 +1,5 @@
 {
- "apk_version": 68,
+ "apk_version": 69,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -123,8 +123,8 @@
   },
   {
    "path": "lib/libsamp.so",
-   "size": 3650024,
-   "md5": "031e47084e4699cd38214745f40e7811"
+   "size": 3660008,
+   "md5": "f22092c5b5f323555470916508166737"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
@@ -1565,13 +1565,13 @@
   },
   {
    "path": "km/texdb/kentcars.img",
-   "size": 352133120,
-   "md5": "9385e6d05c055f4a9551e46dcbc87c34",
+   "size": 357986304,
+   "md5": "200ead60cedd08faee2f9e8eea715d57",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "22ec402cb3cbdbc448cf5888cba2b85d",
+     "0a400eed2f7eb099436b48f402d40300",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
     ],
     [
@@ -1735,8 +1735,12 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c040"
     ],
     [
-     "396aaef7597f4c3b7a0248069f049952",
+     "0117700fa37f4f75537be8d300aa685a",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c041"
+    ],
+    [
+     "c7be334e1ebd102ebcedb8630e8e60de",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c042"
     ]
    ]
   },
@@ -5459,6 +5463,12 @@
    "size": 1486,
    "md5": "b2c67a83fddbe8c24cc43bc0b34b2239",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__31108.kmi"
+  },
+  {
+   "path": "km/salon/31201.kmi",
+   "size": 5842,
+   "md5": "010ae8568a69f6e542f1a76e5a06bb56",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/salon__31201.kmi"
   },
   {
    "path": "km/salon/39.kmi",
