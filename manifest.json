@@ -222,13 +222,13 @@
   },
   {
    "path": "km/texdb/gta3.img",
-   "size": 1122125824,
-   "md5": "a886a236246159abb3e8e99c4aa5d404",
+   "size": 1128820736,
+   "md5": "72c60f8b4ddf8dc3089f2430d7a7828e",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "1e3731db4d8eb337211c187333b94475",
+     "a4485b3f4f0ea5be3d8b07845a1e924d",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000"
     ],
     [
@@ -760,8 +760,12 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c132"
     ],
     [
-     "729d73554328d11ca7ad1bcc37a82fd7",
+     "f06183396733a748cbf23138aa40a31e",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c133"
+    ],
+    [
+     "22a38851d7d44a87e000eec7e95091eb",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c134"
     ]
    ]
   },
@@ -1637,13 +1641,13 @@
   },
   {
    "path": "km/texdb/kentcars.img",
-   "size": 313698304,
-   "md5": "0ba914b1de9fc85e867ef1b047648f4d",
+   "size": 320393216,
+   "md5": "0bb21f119c301834be9d66b1e27f5c3c",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
    "cs": 8388608,
    "chunks": [
     [
-     "a100561bf035a5d60a0243ba02392ccc",
+     "34ca99dfd78e1add6e819216ad4a5dc5",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
     ],
     [
@@ -1791,8 +1795,12 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c036"
     ],
     [
-     "3d2f4dd844e230632320d8062967caa8",
+     "3e52e33666afd9be0552838715443cf6",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c037"
+    ],
+    [
+     "d8ac74ba412f5e2dacf0982009711883",
+     "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c038"
     ]
    ]
   },
