@@ -1,8 +1,8 @@
 {
 "SAMP/gta.dat": {
-"size": 1758,
-"mt": 1794355537,
-"md5": "7c0735335c174de81533d3ddd4917c0c"
+"size": 1788,
+"mt": 1794380510,
+"md5": "add6dede2f7024782acb341691316c22"
 },
 "SAMP/main.scm": {
 "size": 18398,
@@ -2278,8 +2278,8 @@
 },
 "texdb/kentcars.img": {
 "size": 321515520,
-"mt": 1794364206,
-"md5": "9c252ebf55785e3e5ed4514b4ca53871",
+"mt": 1794380510,
+"md5": "b3da38826706ab9713190196952ec39e",
 "ch": [
 "ac10cad8bc20e0669ba5fa3652713382",
 "3782c3e9c5552facac812d1cbb5e7ba3",
@@ -2313,13 +2313,13 @@
 "8e5bde48b42ff11e1157f5e705d4be32",
 "8d6bb736c88c774dcd4826044340c053",
 "0f36868776225b78899245858c239629",
-"b5f9c485dee5b0601578e9d1f6260b46",
+"bf9fe64ed9a0c1039586969aa2768782",
 "5c481114622b12a458bc4710fa5b4ce6",
 "b609af2a06613fd390748f501d792752",
 "71aa4dcac1d0c7729e7c1ae262bdee22",
 "62ff772dedb228e1b340d18ced3f245f",
 "3e52e33666afd9be0552838715443cf6",
-"9422d5c1ae0ffba6931e22daf53df39c"
+"6ce8a79956c17212d8ee13b8359a1517"
 ]
 },
 "texdb/kentcars/kentcars.dxt.dat": {
@@ -4831,7 +4831,7 @@
 "texdb__kentcars.img.c030": "8d6bb736c88c774dcd4826044340c053",
 "texdb__kentcars.img.c031": "0f36868776225b78899245858c239629",
 "texdb__gta3.img.c119": "9272d9ca89e43eccac5b00ee71a011bf",
-"texdb__kentcars.img.c032": "b5f9c485dee5b0601578e9d1f6260b46",
+"texdb__kentcars.img.c032": "bf9fe64ed9a0c1039586969aa2768782",
 "texdb__gta3.img.c120": "dba0b5f89190902f88c71d6f15f8da51",
 "texdb__gta3.img.c121": "b9dda4bfb31afb5cf966780e9ada2237",
 "texdb__gta3.img.c122": "77c186690e7003e9620fa5824504195b",
@@ -4905,7 +4905,7 @@
 "texdb__gta3__gta3.dxt.dat.c116": "b4b1a86a27b8d36df0df25a7cfaba268",
 "texdb__kentcars.img.c037": "3e52e33666afd9be0552838715443cf6",
 "texdb__gta3.img.c130": "7c45efb8affe28c2fa4c470cf252aad7",
-"texdb__kentcars.img.c038": "9422d5c1ae0ffba6931e22daf53df39c",
+"texdb__kentcars.img.c038": "6ce8a79956c17212d8ee13b8359a1517",
 "texdb__gta3.img.c131": "36bb23bccc9b08440af044e09f7fb2e9",
 "texdb__gta3.img.c132": "0d0af7e46c0c641a1d1caa8a74868921",
 "texdb__gta3__gta3.dxt.dat.c117": "8e7ebdd46b4bd2e29225332bf7bc98a7",
@@ -7351,5 +7351,10 @@
 "size": 7706,
 "mt": 1794355537,
 "md5": "961fc270823d32ffbff516f16d389279"
+},
+"data/maps/kobj.col": {
+"size": 195344,
+"mt": 1794380510,
+"md5": "f319b50329729971cbfecb6ed43e6f6a"
 }
 }

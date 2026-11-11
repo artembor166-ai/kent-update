@@ -1,5 +1,5 @@
 {
- "apk_version": 86,
+ "apk_version": 88,
  "apk_url": "https://www.dropbox.com/scl/fi/37wfjpml4ifsulseee90y/KENT-MOBILE.apk?rlkey=y0j2vzcyaticgs8q3k7n5nvlt&st=xv9nfrcx&dl=1",
  "news": [
   {
@@ -123,8 +123,8 @@
   },
   {
    "path": "lib/libsamp.so",
-   "size": 3699752,
-   "md5": "46b5f3a1f6f887a04686ea6abf2acde9"
+   "size": 3700328,
+   "md5": "783a6169206cd047668922c9dd3ed4ad"
   },
   {
    "path": "km/texdb/crmpsamp/crmpsamp.dxt.dat",
@@ -1642,7 +1642,7 @@
   {
    "path": "km/texdb/kentcars.img",
    "size": 321515520,
-   "md5": "9c252ebf55785e3e5ed4514b4ca53871",
+   "md5": "b3da38826706ab9713190196952ec39e",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
    "cs": 8388608,
    "chunks": [
@@ -1775,7 +1775,7 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c031"
     ],
     [
-     "b5f9c485dee5b0601578e9d1f6260b46",
+     "bf9fe64ed9a0c1039586969aa2768782",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c032"
     ],
     [
@@ -1799,7 +1799,7 @@
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c037"
     ],
     [
-     "9422d5c1ae0ffba6931e22daf53df39c",
+     "6ce8a79956c17212d8ee13b8359a1517",
      "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c038"
     ]
    ]
@@ -1848,8 +1848,8 @@
   },
   {
    "path": "km/SAMP/gta.dat",
-   "size": 1758,
-   "md5": "7c0735335c174de81533d3ddd4917c0c",
+   "size": 1788,
+   "md5": "add6dede2f7024782acb341691316c22",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/SAMP__gta.dat"
   },
   {
@@ -3951,6 +3951,12 @@
    "size": 786,
    "md5": "6a3ab06a9b34edb3b8830abf8d1f2e75",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__kint2.ipl"
+  },
+  {
+   "path": "km/data/maps/kobj.col",
+   "size": 195344,
+   "md5": "f319b50329729971cbfecb6ed43e6f6a",
+   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__kobj.col"
   },
   {
    "path": "km/data/maps/kpk.ide",
