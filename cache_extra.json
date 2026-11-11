@@ -1514,13 +1514,13 @@
 },
 {
 "path": "km/texdb/kentcars.img",
-"size": 320956416,
-"md5": "b09a841a41aef7f8cbac3e0b518a6204",
+"size": 321515520,
+"md5": "9c252ebf55785e3e5ed4514b4ca53871",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
 "cs": 8388608,
 "chunks": [
 [
-"3447d3416a9c8b0af5b130ef89339f25",
+"ac10cad8bc20e0669ba5fa3652713382",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
 ],
 [
@@ -1672,7 +1672,7 @@
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c037"
 ],
 [
-"9b3ad1ac2c8be0e2f8ebfa2124e5ca7b",
+"9422d5c1ae0ffba6931e22daf53df39c",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c038"
 ]
 ]
