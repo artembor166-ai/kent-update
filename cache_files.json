@@ -1,8 +1,8 @@
 {
 "SAMP/gta.dat": {
-"size": 1806,
-"mt": 1794432682,
-"md5": "6207acc7fb69f9c3769b347ca0e44c12"
+"size": 1836,
+"mt": 1794525358,
+"md5": "319d2bbd50704d799fea61ac8282d176"
 },
 "SAMP/main.scm": {
 "size": 18398,
@@ -1873,11 +1873,11 @@
 "md5": "1f2342a96a79533cc15b927538635702"
 },
 "texdb/gta3.img": {
-"size": 1173004288,
-"mt": 1794522304,
-"md5": "b7d97483f5c4b9847df174a07f8fb330",
+"size": 1172973568,
+"mt": 1794525358,
+"md5": "ba93759c79f7e123a7b6f902ecb30ad1",
 "ch": [
-"d953ce01f723c6bb6dea31b981921b36",
+"a6d37cdc66e2eb1230753d44bcb2a97f",
 "9d9c3e754879318adc58e57c8fc420c4",
 "4ca988a2c5119fd3dec1b84dbde1541f",
 "da69242077fece8a664ee01e31fc648c",
@@ -1948,10 +1948,10 @@
 "af385fce9334fbf9d0d1563961e4b8a9",
 "8744db5fb352709f7c0ffbc37fb3fcc2",
 "cdd8062cfeca562c06f89a0b6b6db7df",
-"be036340a281ba63abcc321d7c94a8fe",
+"ec422b943898ea290470c38eca5bef78",
 "a1e563e4402149733427477e5a577b74",
 "c017bff3fe3e198b9344c9c80b999114",
-"4e580d233609361eca977fa56b3f2989",
+"b8aec485882e3f7e796e11a6f1cc376e",
 "be2f6de82cf27af57de0d864fcb016aa",
 "612b7ca85312d987e33cf380c8627bc0",
 "ff568f43b224a984e7db755c0350add6",
@@ -2015,14 +2015,14 @@
 "a90e440b2da94571ee4ba210138298bf",
 "93500777ad2f77de818695d8ac07c3b3",
 "85f6d4aeb6ffb291bf97b27e9b0c4bc7",
-"8d8d0e71b573ecae6ba7bed5f353e802",
-"674cd2a5d500dae3634346f757d553a1"
+"06247fc09f514617de6c851ba6ac2474",
+"d2036049bea6e7b17cd7f02b64effaf0"
 ]
 },
 "texdb/gta3/gta3.dxt.dat": {
 "size": 1197265190,
-"mt": 1794522304,
-"md5": "ffa4bfa7ba60b2325abed843db64ab5c",
+"mt": 1794525355,
+"md5": "f2b26097359d0b2284823d777deef70a",
 "ch": [
 "8caaa319b2a53027c3220405dfb9974b",
 "94ed7e5ff81f8cf551e85b567d9a4a53",
@@ -2166,23 +2166,23 @@
 "eef594b5dcd6da7ed1516ba65b63c963",
 "53e1b1b80bb131ae132b683c4ad52944",
 "f460092741b1cd7c521c55b590d7230d",
-"c5f58a6a663cf7062e74ed8d7ca0598c"
+"a98259ad36df2172f3b45a0f2d4ab229"
 ]
 },
 "texdb/gta3/gta3.dxt.tmb": {
 "size": 1501020,
-"mt": 1794522304,
-"md5": "e7c5e4b3b74eb2818e85fee56e13260f"
+"mt": 1794525355,
+"md5": "e1c72c4c704bbe3a0f58dc5cce3aad2c"
 },
 "texdb/gta3/gta3.dxt.toc": {
 "size": 48128,
-"mt": 1794522304,
+"mt": 1794525355,
 "md5": "9013dda31119177de04cb99f42207c92"
 },
 "texdb/gta3/gta3.txt": {
 "size": 721125,
-"mt": 1794522304,
-"md5": "fd14831f266bad98b6c64f6a44926fa6"
+"mt": 1794525355,
+"md5": "9a23f1edf6001389b52b0f5b9070a6d4"
 },
 "texdb/gta_int.img": {
 "size": 32276480,
@@ -2287,11 +2287,11 @@
 "md5": "3f9aaa38a4d152af7e783be2d0747b18"
 },
 "texdb/kentcars.img": {
-"size": 348147712,
-"mt": 1794522304,
-"md5": "a306494077aa8405fbe98601fe1bbae1",
+"size": 348116992,
+"mt": 1794525355,
+"md5": "3601186cbad8ece483103187e953248a",
 "ch": [
-"43ac489134678001e232179454d6528a",
+"f291e060b128ed563d8df6f4bfb21d9b",
 "3782c3e9c5552facac812d1cbb5e7ba3",
 "1cd52a81d646b586cd73ef62dc51b9cb",
 "0293dbba16b8da4342679e87ea224e99",
@@ -2331,8 +2331,8 @@
 "3e52e33666afd9be0552838715443cf6",
 "43e685f9a0496fb1b7a78ad33e4a2691",
 "5f1aae3f67ab68359ee7dc4b81e2cdf6",
-"1f4de56c92eebf6e13e4b7b68170a588",
-"c2183e846085a6095affb8b76506e66e"
+"7a156cbbaef188bb5305fd3fc618e135",
+"daae270bb35aaaa7ef600a0a832f1daf"
 ]
 },
 "texdb/kentcars/kentcars.dxt.dat": {
@@ -4768,7 +4768,7 @@
 "texdb__gta_int__gta_int.dxt.dat.c072": "71b98ea7f1dc5fc58fb97fea0931acf2",
 "texdb__gta_int__gta_int.dxt.dat.c073": "ed455b9e5e62c53ca76f46f2c4ec1076",
 "texdb__gta_int__gta_int.dxt.dat.c074": "b14508f4d54e3ad6e04395c48ed11e41",
-"texdb__kentcars.img.c000": "43ac489134678001e232179454d6528a",
+"texdb__kentcars.img.c000": "f291e060b128ed563d8df6f4bfb21d9b",
 "texdb__kentcars.img.c001": "3782c3e9c5552facac812d1cbb5e7ba3",
 "texdb__kentcars.img.c002": "1cd52a81d646b586cd73ef62dc51b9cb",
 "texdb__kentcars.img.c003": "0293dbba16b8da4342679e87ea224e99",
@@ -4783,7 +4783,7 @@
 "texdb__kentcars.img.c012": "2901fdea71a7e2e858eba0da4ef5471e",
 "texdb__kentcars.img.c013": "71a19edb46e35db1b9e261f30f815dc2",
 "texdb__kentcars.img.c014": "1dc1bcf648c7c59bf2e437dbedb97d5f",
-"texdb__gta3.img.c000": "d953ce01f723c6bb6dea31b981921b36",
+"texdb__gta3.img.c000": "a6d37cdc66e2eb1230753d44bcb2a97f",
 "texdb__gta3.img.c100": "6d8045bd7c61397499dc8ae868e0bfb8",
 "texdb__gta3.img.c101": "bd43bcd21c6eb643be70270761b6c842",
 "texdb__gta3__gta3.dxt.dat.c062": "6b9a4e5fd35c7b6fbdeb5fa83f0efd61",
@@ -4885,7 +4885,7 @@
 "texdb__gta3.img.c067": "cb6c9cbcd50b04238658836a876b579b",
 "texdb__gta3.img.c068": "af385fce9334fbf9d0d1563961e4b8a9",
 "texdb__gta3.img.c069": "8744db5fb352709f7c0ffbc37fb3fcc2",
-"texdb__gta3.img.c074": "4e580d233609361eca977fa56b3f2989",
+"texdb__gta3.img.c074": "b8aec485882e3f7e796e11a6f1cc376e",
 "texdb__gta3.img.c075": "be2f6de82cf27af57de0d864fcb016aa",
 "texdb__gta3.img.c076": "612b7ca85312d987e33cf380c8627bc0",
 "texdb__gta3.img.c077": "ff568f43b224a984e7db755c0350add6",
@@ -4926,8 +4926,8 @@
 "texdb__gta3__gta3.dxt.dat.c119": "2c974db53f03946c305ff4118be33a01",
 "texdb__gta3__gta3.dxt.dat.c120": "0e2a32a5ac428937d0b60af926520e19",
 "texdb__kentcars.img.c039": "5f1aae3f67ab68359ee7dc4b81e2cdf6",
-"texdb__kentcars.img.c040": "1f4de56c92eebf6e13e4b7b68170a588",
-"texdb__kentcars.img.c041": "c2183e846085a6095affb8b76506e66e",
+"texdb__kentcars.img.c040": "7a156cbbaef188bb5305fd3fc618e135",
+"texdb__kentcars.img.c041": "daae270bb35aaaa7ef600a0a832f1daf",
 "texdb__kentcars.img.c042": "c7be334e1ebd102ebcedb8630e8e60de",
 "texdb__crmptxd__crmptxd.dxt.dat.c006": "98faeb0d5f0708376867fa7f0b0f8efb",
 "texdb__gta3__gta3.dxt.dat.c121": "d8a4fba7ab4c6c9549cd39376b6882f0",
@@ -4953,12 +4953,13 @@
 "texdb__gta3.img.c135": "a90e440b2da94571ee4ba210138298bf",
 "texdb__gta3.img.c136": "93500777ad2f77de818695d8ac07c3b3",
 "texdb__gta3.img.c137": "85f6d4aeb6ffb291bf97b27e9b0c4bc7",
-"texdb__gta3.img.c138": "8d8d0e71b573ecae6ba7bed5f353e802",
+"texdb__gta3.img.c138": "06247fc09f514617de6c851ba6ac2474",
 "texdb__gta3__gta3.dxt.dat.c139": "eef594b5dcd6da7ed1516ba65b63c963",
 "texdb__gta3__gta3.dxt.dat.c140": "53e1b1b80bb131ae132b683c4ad52944",
 "texdb__gta3__gta3.dxt.dat.c141": "f460092741b1cd7c521c55b590d7230d",
-"texdb__gta3__gta3.dxt.dat.c142": "c5f58a6a663cf7062e74ed8d7ca0598c",
-"texdb__gta3.img.c139": "674cd2a5d500dae3634346f757d553a1"
+"texdb__gta3__gta3.dxt.dat.c142": "a98259ad36df2172f3b45a0f2d4ab229",
+"texdb__gta3.img.c139": "d2036049bea6e7b17cd7f02b64effaf0",
+"texdb__gta3.img.c071": "ec422b943898ea290470c38eca5bef78"
 },
 "texdb/kentcars/src/e_pikap_ammobox.png": {
 "size": 57884,
@@ -5122,7 +5123,7 @@
 },
 "SAMP/handling.cfg": {
 "size": 64493,
-"mt": 1794522305,
+"mt": 1794525356,
 "md5": "479099c3018978880d24fbd2cfd27f49"
 },
 "data/maps/kint2.ide": {
@@ -5137,17 +5138,17 @@
 },
 "SAMP/vehicles.ide": {
 "size": 20904,
-"mt": 1794522304,
+"mt": 1794525355,
 "md5": "ae6ca712b5079cfd91700d5dfd6102a5"
 },
 "data/handling.cfg": {
 "size": 64495,
-"mt": 1794522305,
+"mt": 1794525356,
 "md5": "1ceebf93adaf52ad80b06a034f59402b"
 },
 "data/vehicles.ide": {
 "size": 20900,
-"mt": 1794522304,
+"mt": 1794525355,
 "md5": "1986e3169c5bf82c76c95da808790f0f"
 },
 "salon/409.kmi": {
@@ -7376,9 +7377,9 @@
 "md5": "961fc270823d32ffbff516f16d389279"
 },
 "data/maps/kobj.col": {
-"size": 195344,
-"mt": 1794380510,
-"md5": "f319b50329729971cbfecb6ed43e6f6a"
+"size": 600,
+"mt": 1794525358,
+"md5": "a08df65e2fdec696a8ada4dbed0cb935"
 },
 "data/maps/kb26.ide": {
 "size": 74,
@@ -7392,7 +7393,7 @@
 },
 "salon/504.kmi": {
 "size": 43310,
-"mt": 1794522305,
+"mt": 1794525356,
 "md5": "5a6135599a346b5af44452f8028d0e04"
 }
 }
