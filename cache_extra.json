@@ -95,13 +95,13 @@
 },
 {
 "path": "km/texdb/gta3.img",
-"size": 1165443072,
-"md5": "9617f67a987e533d97e01747e0c323b2",
+"size": 1165936640,
+"md5": "47a327b86110f6664b61a3f52b54627e",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000",
 "cs": 8388608,
 "chunks": [
 [
-"335d88b8fab55a2a732f736e8e1f5eb2",
+"366b91aae84a4a34b58f87131bbcda06",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c000"
 ],
 [
@@ -653,7 +653,7 @@
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c137"
 ],
 [
-"c86d40d4c02484c3ea083cf55488afc8",
+"f7d8cac0676c3892b575312ebf5c54fe",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__gta3.img.c138"
 ]
 ]
@@ -1550,13 +1550,13 @@
 },
 {
 "path": "km/texdb/kentcars.img",
-"size": 340586496,
-"md5": "c2946edd89f03876c88c3401711ec2ea",
+"size": 341080064,
+"md5": "d2bb932504f216d3aa3467dc9cae5b9a",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
 "cs": 8388608,
 "chunks": [
 [
-"67d178376ab027fd14b35c87b7e1824c",
+"523063fba0d66455ff5d79c29e04a1e7",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
 ],
 [
@@ -1712,11 +1712,11 @@
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c038"
 ],
 [
-"2dc79fd247077d839ca98a16e8e47f18",
+"5f1aae3f67ab68359ee7dc4b81e2cdf6",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c039"
 ],
 [
-"b6da8c88524fa6b33af03426b3323c4a",
+"d29de293255986a9b66ad9d5ddf4f8a9",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c040"
 ]
 ]
@@ -1771,8 +1771,8 @@
 },
 {
 "path": "km/SAMP/handling.cfg",
-"size": 64493,
-"md5": "eed6e096eb4722aa0a7c9b06a788490d",
+"size": 64496,
+"md5": "506f3aa5c28707a6245f2aeec77c2fcc",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/SAMP__handling.cfg"
 },
 {
@@ -2413,8 +2413,8 @@
 },
 {
 "path": "km/data/handling.cfg",
-"size": 64495,
-"md5": "73c7dcb90f8e237b1b4847bb964375ce",
+"size": 64498,
+"md5": "e155a27a937dfa306f2fb7a335ca4e7c",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/data__handling.cfg"
 },
 {
