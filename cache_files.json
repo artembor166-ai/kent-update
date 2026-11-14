@@ -1824,9 +1824,9 @@
 "md5": "d597e5582d4f725c42d864e1f86a7a8f"
 },
 "texdb/crmptxd/crmptxd.dxt.dat": {
-"size": 56943280,
-"mt": 1794674451,
-"md5": "1940245af3216c0cc848c0ac3d43e4a9",
+"size": 56768504,
+"mt": 1794675668,
+"md5": "3a06e0ffea2d8cd6b2e50d0b7734ba36",
 "ch": [
 "549759989377bbbd012eb24f16df779d",
 "e59eaec5b9ad333a54cd94ed510d7b8a",
@@ -1834,18 +1834,18 @@
 "951f9f2d5dc5df70354df177a34160ee",
 "08a944a077c4902d5d7ff33302af0427",
 "d898428c951013f537a3e67920da620d",
-"d04ea12b16db39572c6ffcf9fd826b62"
+"98faeb0d5f0708376867fa7f0b0f8efb"
 ]
 },
 "texdb/crmptxd/crmptxd.dxt.tmb": {
 "size": 77536,
-"mt": 1794674451,
+"mt": 1794675668,
 "md5": "9b0fd487ea1eaff3a31340782a8f6062"
 },
 "texdb/crmptxd/crmptxd.dxt.toc": {
 "size": 2996,
-"mt": 1794674451,
-"md5": "119475dfad55967f11be8994ab27e566"
+"mt": 1794675668,
+"md5": "d94da9a7b3111a5b9bfe16f7243ff71e"
 },
 "texdb/crmptxd/crmptxd.txt": {
 "size": 51144,
@@ -2020,9 +2020,9 @@
 ]
 },
 "texdb/gta3/gta3.dxt.dat": {
-"size": 1202165990,
-"mt": 1794674450,
-"md5": "44bc3512b6c82b238c03aaa2e5bff83c",
+"size": 1197265190,
+"mt": 1794675668,
+"md5": "f2b26097359d0b2284823d777deef70a",
 "ch": [
 "8caaa319b2a53027c3220405dfb9974b",
 "94ed7e5ff81f8cf551e85b567d9a4a53",
@@ -2166,19 +2166,18 @@
 "eef594b5dcd6da7ed1516ba65b63c963",
 "53e1b1b80bb131ae132b683c4ad52944",
 "f460092741b1cd7c521c55b590d7230d",
-"de9ef25471bfecfca26d46e57c223143",
-"345f633cd520e43af0881eed11bf31fc"
+"a98259ad36df2172f3b45a0f2d4ab229"
 ]
 },
 "texdb/gta3/gta3.dxt.tmb": {
 "size": 1501020,
-"mt": 1794674450,
-"md5": "0e45fd0ed8c165e47e8702d5fb37c8a6"
+"mt": 1794675668,
+"md5": "e1c72c4c704bbe3a0f58dc5cce3aad2c"
 },
 "texdb/gta3/gta3.dxt.toc": {
 "size": 48128,
-"mt": 1794674450,
-"md5": "296e36977f3f23a3ad900aa70d2bd019"
+"mt": 1794675668,
+"md5": "9013dda31119177de04cb99f42207c92"
 },
 "texdb/gta3/gta3.txt": {
 "size": 721125,
@@ -4930,7 +4929,7 @@
 "texdb__kentcars.img.c040": "7a156cbbaef188bb5305fd3fc618e135",
 "texdb__kentcars.img.c041": "daae270bb35aaaa7ef600a0a832f1daf",
 "texdb__kentcars.img.c042": "c7be334e1ebd102ebcedb8630e8e60de",
-"texdb__crmptxd__crmptxd.dxt.dat.c006": "d04ea12b16db39572c6ffcf9fd826b62",
+"texdb__crmptxd__crmptxd.dxt.dat.c006": "98faeb0d5f0708376867fa7f0b0f8efb",
 "texdb__gta3__gta3.dxt.dat.c121": "d8a4fba7ab4c6c9549cd39376b6882f0",
 "texdb__gta3.img.c133": "f06183396733a748cbf23138aa40a31e",
 "texdb__gta3__gta3.dxt.dat.c122": "2f0219af3f24c1f6b8f94b3f3c77191f",
@@ -4958,7 +4957,7 @@
 "texdb__gta3__gta3.dxt.dat.c139": "eef594b5dcd6da7ed1516ba65b63c963",
 "texdb__gta3__gta3.dxt.dat.c140": "53e1b1b80bb131ae132b683c4ad52944",
 "texdb__gta3__gta3.dxt.dat.c141": "f460092741b1cd7c521c55b590d7230d",
-"texdb__gta3__gta3.dxt.dat.c142": "de9ef25471bfecfca26d46e57c223143",
+"texdb__gta3__gta3.dxt.dat.c142": "a98259ad36df2172f3b45a0f2d4ab229",
 "texdb__gta3.img.c139": "d2036049bea6e7b17cd7f02b64effaf0",
 "texdb__gta3.img.c071": "be036340a281ba63abcc321d7c94a8fe",
 "texdb__gta3__gta3.dxt.dat.c143": "345f633cd520e43af0881eed11bf31fc"
