@@ -2294,11 +2294,11 @@
 "md5": "3f9aaa38a4d152af7e783be2d0747b18"
 },
 "texdb/kentcars.img": {
-"size": 351426560,
-"mt": 1794781886,
-"md5": "f4934638a372f38c0c75c05ba9753c07",
+"size": 351436800,
+"mt": 1794782584,
+"md5": "c5679e8ebb5066fb04b89896be9b6809",
 "ch": [
-"9abd7aaaf6d64e53807b7b353a0bf51d",
+"b443ab232b703d9c6dbc547ade262cc3",
 "3782c3e9c5552facac812d1cbb5e7ba3",
 "1cd52a81d646b586cd73ef62dc51b9cb",
 "0293dbba16b8da4342679e87ea224e99",
@@ -2339,7 +2339,7 @@
 "43e685f9a0496fb1b7a78ad33e4a2691",
 "5f1aae3f67ab68359ee7dc4b81e2cdf6",
 "7a156cbbaef188bb5305fd3fc618e135",
-"f8ccd1fbc2f4cb7b64dd8b471f487e9b"
+"7ece547b259d159b8ac614fd556c0902"
 ]
 },
 "texdb/kentcars/kentcars.dxt.dat": {
@@ -4775,7 +4775,7 @@
 "texdb__gta_int__gta_int.dxt.dat.c072": "71b98ea7f1dc5fc58fb97fea0931acf2",
 "texdb__gta_int__gta_int.dxt.dat.c073": "ed455b9e5e62c53ca76f46f2c4ec1076",
 "texdb__gta_int__gta_int.dxt.dat.c074": "49c113d86cbcb516c5d149f773d1e4e3",
-"texdb__kentcars.img.c000": "9abd7aaaf6d64e53807b7b353a0bf51d",
+"texdb__kentcars.img.c000": "b443ab232b703d9c6dbc547ade262cc3",
 "texdb__kentcars.img.c001": "3782c3e9c5552facac812d1cbb5e7ba3",
 "texdb__kentcars.img.c002": "1cd52a81d646b586cd73ef62dc51b9cb",
 "texdb__kentcars.img.c003": "0293dbba16b8da4342679e87ea224e99",
@@ -4934,7 +4934,7 @@
 "texdb__gta3__gta3.dxt.dat.c120": "0e2a32a5ac428937d0b60af926520e19",
 "texdb__kentcars.img.c039": "5f1aae3f67ab68359ee7dc4b81e2cdf6",
 "texdb__kentcars.img.c040": "7a156cbbaef188bb5305fd3fc618e135",
-"texdb__kentcars.img.c041": "f8ccd1fbc2f4cb7b64dd8b471f487e9b",
+"texdb__kentcars.img.c041": "7ece547b259d159b8ac614fd556c0902",
 "texdb__kentcars.img.c042": "c7be334e1ebd102ebcedb8630e8e60de",
 "texdb__crmptxd__crmptxd.dxt.dat.c006": "2c12afb4e05d227ea811f59725bc6930",
 "texdb__gta3__gta3.dxt.dat.c121": "d8a4fba7ab4c6c9549cd39376b6882f0",
@@ -7486,9 +7486,9 @@
 "md5": "38bafc49f04d361e365ec0adfe4c0fb0"
 },
 "data/maps/kny.ide": {
-"size": 122,
-"mt": 1794780797,
-"md5": "c571b61faa709c093cac50d061b3a9cc"
+"size": 150,
+"mt": 1794782584,
+"md5": "51ce8ef88a8a718aaabf47d0cb80b029"
 },
 "data/maps/kny.ipl": {
 "size": 50,
