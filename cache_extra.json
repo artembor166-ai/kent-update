@@ -1582,13 +1582,13 @@
 },
 {
 "path": "km/texdb/kentcars.img",
-"size": 351315968,
-"md5": "6d26efe524cfde2420e82f44945e4677",
+"size": 351426560,
+"md5": "7fe4cc174f12d9cadc011d0b9cdfb8e9",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
 "cs": 8388608,
 "chunks": [
 [
-"7084dfd0a2d6052ce2412d71491e1c7c",
+"9abd7aaaf6d64e53807b7b353a0bf51d",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
 ],
 [
@@ -1752,7 +1752,7 @@
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c040"
 ],
 [
-"034005e32f8564f8963c4f489e60a348",
+"5620cf3a60e4899f08d7bcd0d3da3f1f",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c041"
 ]
 ]
@@ -3931,8 +3931,8 @@
 },
 {
 "path": "km/data/maps/kny.ide",
-"size": 85,
-"md5": "eca22deb51c4248b195432aac1236126",
+"size": 122,
+"md5": "c571b61faa709c093cac50d061b3a9cc",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__kny.ide"
 },
 {
@@ -3943,8 +3943,8 @@
 },
 {
 "path": "km/data/maps/kny.ipl.w",
-"size": 175,
-"md5": "e5df3376400e07ecc821706fbd4889af",
+"size": 108,
+"md5": "44350bf4e48900a7b3be6d5e307dcc31",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__kny.ipl.w"
 },
 {
