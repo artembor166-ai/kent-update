@@ -2294,11 +2294,11 @@
 "md5": "3f9aaa38a4d152af7e783be2d0747b18"
 },
 "texdb/kentcars.img": {
-"size": 351447040,
-"mt": 1794784693,
-"md5": "b1d6a3c38fb77d8d33900db19fa7324c",
+"size": 351549440,
+"mt": 1794908590,
+"md5": "fc6022879be74ffdee3b4386e814626d",
 "ch": [
-"4e1e618598815198ef802c0ab70cdf51",
+"bafb02895e6f967d60fe997a4946a307",
 "3782c3e9c5552facac812d1cbb5e7ba3",
 "1cd52a81d646b586cd73ef62dc51b9cb",
 "0293dbba16b8da4342679e87ea224e99",
@@ -2339,7 +2339,7 @@
 "43e685f9a0496fb1b7a78ad33e4a2691",
 "5f1aae3f67ab68359ee7dc4b81e2cdf6",
 "7a156cbbaef188bb5305fd3fc618e135",
-"886b349310a31ce543dc0b7db5e99bc9"
+"8c1957070c5b6419e1310f0fd6239fc3"
 ]
 },
 "texdb/kentcars/kentcars.dxt.dat": {
@@ -4775,7 +4775,7 @@
 "texdb__gta_int__gta_int.dxt.dat.c072": "71b98ea7f1dc5fc58fb97fea0931acf2",
 "texdb__gta_int__gta_int.dxt.dat.c073": "ed455b9e5e62c53ca76f46f2c4ec1076",
 "texdb__gta_int__gta_int.dxt.dat.c074": "49c113d86cbcb516c5d149f773d1e4e3",
-"texdb__kentcars.img.c000": "4e1e618598815198ef802c0ab70cdf51",
+"texdb__kentcars.img.c000": "bafb02895e6f967d60fe997a4946a307",
 "texdb__kentcars.img.c001": "3782c3e9c5552facac812d1cbb5e7ba3",
 "texdb__kentcars.img.c002": "1cd52a81d646b586cd73ef62dc51b9cb",
 "texdb__kentcars.img.c003": "0293dbba16b8da4342679e87ea224e99",
@@ -4934,7 +4934,7 @@
 "texdb__gta3__gta3.dxt.dat.c120": "0e2a32a5ac428937d0b60af926520e19",
 "texdb__kentcars.img.c039": "5f1aae3f67ab68359ee7dc4b81e2cdf6",
 "texdb__kentcars.img.c040": "7a156cbbaef188bb5305fd3fc618e135",
-"texdb__kentcars.img.c041": "886b349310a31ce543dc0b7db5e99bc9",
+"texdb__kentcars.img.c041": "8c1957070c5b6419e1310f0fd6239fc3",
 "texdb__kentcars.img.c042": "c7be334e1ebd102ebcedb8630e8e60de",
 "texdb__crmptxd__crmptxd.dxt.dat.c006": "2c12afb4e05d227ea811f59725bc6930",
 "texdb__gta3__gta3.dxt.dat.c121": "d8a4fba7ab4c6c9549cd39376b6882f0",
@@ -6081,9 +6081,9 @@
 "md5": "e3f4b2654912999c934a30433655cb3c"
 },
 "texdb/mobile/mobile.dxt.dat": {
-"size": 7267946,
-"mt": 1791980846,
-"md5": "dc035b96bbf5e3cc89a5fcbed75150ee"
+"size": 7595658,
+"mt": 1794908591,
+"md5": "800ceae66c4b43081109ea5186e705bf"
 },
 "texdb/mobile/mobile.dxt.tmb": {
 "size": 3940,
@@ -6092,13 +6092,13 @@
 },
 "texdb/mobile/mobile.dxt.toc": {
 "size": 792,
-"mt": 1791980846,
-"md5": "69b1bae3daef2ff057cc0dcce1594885"
+"mt": 1794908591,
+"md5": "dee56ebffd86bf87aaec6021467b0074"
 },
 "texdb/mobile/mobile.etc.dat": {
-"size": 8712314,
-"mt": 1791980846,
-"md5": "7a1d3918cac2a8e08cc29dafa70bd1ea"
+"size": 9040026,
+"mt": 1794908591,
+"md5": "2d028aa82fa89fc6d9422f9880def64d"
 },
 "texdb/mobile/mobile.etc.tmb": {
 "size": 3940,
@@ -6107,13 +6107,13 @@
 },
 "texdb/mobile/mobile.etc.toc": {
 "size": 792,
-"mt": 1791980846,
-"md5": "6e6f1e67984e72ed11c3d18efb897268"
+"mt": 1794908591,
+"md5": "e3c0e9b420dc657168f5f033649d99e2"
 },
 "texdb/mobile/mobile.pvr.dat": {
-"size": 8712314,
-"mt": 1791980846,
-"md5": "4fb465d4eb5461520761b227840692d3"
+"size": 9040026,
+"mt": 1794908591,
+"md5": "ba4c557e4057b3e33bf9e1d860ee8d3c"
 },
 "texdb/mobile/mobile.pvr.tmb": {
 "size": 3940,
@@ -6122,8 +6122,8 @@
 },
 "texdb/mobile/mobile.pvr.toc": {
 "size": 792,
-"mt": 1791980846,
-"md5": "6e6f1e67984e72ed11c3d18efb897268"
+"mt": 1794908591,
+"md5": "e3c0e9b420dc657168f5f033649d99e2"
 },
 "texdb/mobile/mobile.txt": {
 "size": 14502,
@@ -7486,9 +7486,9 @@
 "md5": "38bafc49f04d361e365ec0adfe4c0fb0"
 },
 "data/maps/kny.ide": {
-"size": 150,
-"mt": 1794784692,
-"md5": "51ce8ef88a8a718aaabf47d0cb80b029"
+"size": 181,
+"mt": 1794908590,
+"md5": "9cfe029151aaceb10a99d2fb54b245f2"
 },
 "data/maps/kny.ipl": {
 "size": 50,
@@ -7509,5 +7509,35 @@
 "size": 92,
 "mt": 1794684736,
 "md5": "41c915cb9f84c9e12bf35c2d2d4e0a3a"
+},
+"sounds/ng_blizzard.mp3": {
+"size": 36720,
+"mt": 1794908591,
+"md5": "2687837c6764f82c3216a987f2696bcd"
+},
+"sounds/ng_freeze.mp3": {
+"size": 15091,
+"mt": 1794908591,
+"md5": "245a752eb30330ecedcac8baf445331a"
+},
+"sounds/ng_hit.mp3": {
+"size": 5060,
+"mt": 1794908591,
+"md5": "a4113e4b34b6c7d3e03b9c983f818e1b"
+},
+"sounds/ng_music.mp3": {
+"size": 410479,
+"mt": 1794908591,
+"md5": "654efccf9371aee3f7d2bcee8bf5c0da"
+},
+"sounds/ng_rage.mp3": {
+"size": 20107,
+"mt": 1794908591,
+"md5": "d65daf3eeb98b928ca0b6418b54be06d"
+},
+"sounds/ng_win.mp3": {
+"size": 39228,
+"mt": 1794908591,
+"md5": "70164fdbea9b1daff6589dae9ce53f0e"
 }
 }

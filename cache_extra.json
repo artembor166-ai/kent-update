@@ -1582,13 +1582,13 @@
 },
 {
 "path": "km/texdb/kentcars.img",
-"size": 351447040,
-"md5": "b1d6a3c38fb77d8d33900db19fa7324c",
+"size": 351549440,
+"md5": "fc6022879be74ffdee3b4386e814626d",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000",
 "cs": 8388608,
 "chunks": [
 [
-"4e1e618598815198ef802c0ab70cdf51",
+"bafb02895e6f967d60fe997a4946a307",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c000"
 ],
 [
@@ -1752,7 +1752,7 @@
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c040"
 ],
 [
-"886b349310a31ce543dc0b7db5e99bc9",
+"8c1957070c5b6419e1310f0fd6239fc3",
 "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__kentcars.img.c041"
 ]
 ]
@@ -3931,8 +3931,8 @@
 },
 {
 "path": "km/data/maps/kny.ide",
-"size": 150,
-"md5": "51ce8ef88a8a718aaabf47d0cb80b029",
+"size": 181,
+"md5": "9cfe029151aaceb10a99d2fb54b245f2",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/data__maps__kny.ide"
 },
 {
@@ -6648,6 +6648,42 @@
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__mg_fsb_m.mp3"
 },
 {
+"path": "km/sounds/ng_blizzard.mp3",
+"size": 36720,
+"md5": "2687837c6764f82c3216a987f2696bcd",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__ng_blizzard.mp3"
+},
+{
+"path": "km/sounds/ng_freeze.mp3",
+"size": 15091,
+"md5": "245a752eb30330ecedcac8baf445331a",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__ng_freeze.mp3"
+},
+{
+"path": "km/sounds/ng_hit.mp3",
+"size": 5060,
+"md5": "a4113e4b34b6c7d3e03b9c983f818e1b",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__ng_hit.mp3"
+},
+{
+"path": "km/sounds/ng_music.mp3",
+"size": 410479,
+"md5": "654efccf9371aee3f7d2bcee8bf5c0da",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__ng_music.mp3"
+},
+{
+"path": "km/sounds/ng_rage.mp3",
+"size": 20107,
+"md5": "d65daf3eeb98b928ca0b6418b54be06d",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__ng_rage.mp3"
+},
+{
+"path": "km/sounds/ng_win.mp3",
+"size": 39228,
+"md5": "70164fdbea9b1daff6589dae9ce53f0e",
+"url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/sounds__ng_win.mp3"
+},
+{
 "path": "km/sounds/npc_p0_f.ogg",
 "size": 51914,
 "md5": "57e6207c54aaa5e4cc47057d76257f49",
@@ -8785,8 +8821,8 @@
 },
 {
 "path": "km/texdb/mobile/mobile.dxt.dat",
-"size": 7267946,
-"md5": "dc035b96bbf5e3cc89a5fcbed75150ee",
+"size": 7595658,
+"md5": "800ceae66c4b43081109ea5186e705bf",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__mobile__mobile.dxt.dat"
 },
 {
@@ -8798,13 +8834,13 @@
 {
 "path": "km/texdb/mobile/mobile.dxt.toc",
 "size": 792,
-"md5": "69b1bae3daef2ff057cc0dcce1594885",
+"md5": "dee56ebffd86bf87aaec6021467b0074",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__mobile__mobile.dxt.toc"
 },
 {
 "path": "km/texdb/mobile/mobile.etc.dat",
-"size": 8712314,
-"md5": "7a1d3918cac2a8e08cc29dafa70bd1ea",
+"size": 9040026,
+"md5": "2d028aa82fa89fc6d9422f9880def64d",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__mobile__mobile.etc.dat"
 },
 {
@@ -8816,13 +8852,13 @@
 {
 "path": "km/texdb/mobile/mobile.etc.toc",
 "size": 792,
-"md5": "6e6f1e67984e72ed11c3d18efb897268",
+"md5": "e3c0e9b420dc657168f5f033649d99e2",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__mobile__mobile.etc.toc"
 },
 {
 "path": "km/texdb/mobile/mobile.pvr.dat",
-"size": 8712314,
-"md5": "4fb465d4eb5461520761b227840692d3",
+"size": 9040026,
+"md5": "ba4c557e4057b3e33bf9e1d860ee8d3c",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__mobile__mobile.pvr.dat"
 },
 {
@@ -8834,7 +8870,7 @@
 {
 "path": "km/texdb/mobile/mobile.pvr.toc",
 "size": 792,
-"md5": "6e6f1e67984e72ed11c3d18efb897268",
+"md5": "e3c0e9b420dc657168f5f033649d99e2",
 "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__mobile__mobile.pvr.toc"
 },
 {
