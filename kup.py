@@ -1,4 +1,5 @@
 # KENT: публикация обновления в GitHub. Запуск: python ~/kent-update/kup.py
+# exclude.txt: строки-префиксы путей, которые НЕ публикуются (например km/texdb/zima/). Строки с # игнорируются.
 import os,json,hashlib,re,shutil,subprocess
 P=os.path.expanduser('~/tmp/SAMP-Mobile-GTA-2.11/app/')
 U=os.path.expanduser('~/kent-update/')
@@ -7,11 +8,16 @@ os.makedirs(U+'files/lib',exist_ok=True)
 shutil.copy(lib,U+'files/lib/libsamp.so')
 ver=int(re.search(r'versionCode\s*=\s*(\d+)',open(P+'build.gradle.kts',encoding='utf-8').read()).group(1))
 apk_url=json.load(open(P+'src/main/assets/cache.json',encoding='utf-8')).get('apk_url','')
-files=[]
+EX=[]
+if os.path.exists(U+'exclude.txt'):
+    EX=[l.strip() for l in open(U+'exclude.txt',encoding='utf-8') if l.strip() and not l.strip().startswith('#')]
+def excluded(rel): return any(rel.startswith(e) for e in EX)
+files=[]; skipped=0
 for root,_,names in os.walk(U+'files'):
     for n in sorted(names):
         f=os.path.join(root,n); rel=os.path.relpath(f,U+'files').replace('\\','/')
         if not (rel.startswith('lib/') or rel.startswith('km/')): continue
+        if excluded(rel): skipped+=1; continue
         h=hashlib.md5(open(f,'rb').read()).hexdigest()
         sz=os.path.getsize(f)
         if sz>95*1024*1024: print('!! больше 95 МБ, GitHub не примет:',rel); continue
@@ -19,8 +25,9 @@ for root,_,names in os.walk(U+'files'):
 # большие файлы кеша из GitHub Releases (готовит ~/kmap.py)
 if os.path.exists(U+'cache_extra.json'):
     have={x['path'] for x in files}
-    extra=[x for x in json.load(open(U+'cache_extra.json',encoding='utf-8')) if x['path'] not in have]
+    extra=[x for x in json.load(open(U+'cache_extra.json',encoding='utf-8')) if x['path'] not in have and not excluded(x['path'])]
     files+=extra; print('файлов кеша из релиза:',len(extra))
+print('исключено по exclude.txt:',skipped,'| всего к публикации: %.2f ГБ' % (sum(x['size'] for x in files)/1024**3))
 news=[]
 if os.path.exists(U+'news.txt'):
     for l in open(U+'news.txt',encoding='utf-8'):
