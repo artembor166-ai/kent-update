@@ -9073,12 +9073,6 @@
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/cache1/texdb__samp__samp.txt"
   },
   {
-   "path": "km/texdb/samp/samp.unc.dat",
-   "size": 33150952,
-   "md5": "545f272663b036d106711e3bc848624e",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__samp__samp.unc.dat"
-  },
-  {
    "path": "km/texdb/samp/samp.unc.tmb",
    "size": 21168,
    "md5": "f90a215a047563a0061f6f01e0e5966d",
@@ -9089,12 +9083,6 @@
    "size": 6156,
    "md5": "dc1f54239b2ca11d17469a75cfd6cd28",
    "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__samp__samp.unc.toc"
-  },
-  {
-   "path": "km/texdb/txd/txd.360.dat",
-   "size": 7625578,
-   "md5": "0c1f471d59fd6a598de33720fcb3ca57",
-   "url": "https://github.com/artembor166-ai/kent-update/releases/download/kc1/texdb__txd__txd.360.dat"
   },
   {
    "path": "km/texdb/txd/txd.360.tmb",

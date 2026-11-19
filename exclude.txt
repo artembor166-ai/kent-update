@@ -1,2 +1,2 @@
-km/texdb/zima/
-km/video/
+km/texdb/txd/txd.360.dat
+km/texdb/samp/samp.unc.dat
